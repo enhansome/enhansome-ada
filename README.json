@@ -561,7 +561,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-13T03:24:10Z",
+            "last_commit": "2026-08-14T03:18:31Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -592,7 +592,7 @@
             "last_commit": "2026-05-05T13:27:13Z",
             "owner": "fastrgv",
             "repo": "AdaGate",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -886,7 +886,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-06T12:58:39Z",
+            "last_commit": "2026-08-14T11:59:07Z",
             "owner": "AdaCore",
             "repo": "gtkada",
             "stars": 109
@@ -1013,7 +1013,7 @@
             "last_commit": "2023-03-29T21:44:41Z",
             "owner": "AdaDoom3",
             "repo": "AdaDoom3",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -1201,7 +1201,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-07-26T14:15:14Z",
+            "last_commit": "2026-08-14T16:59:58Z",
             "owner": "pyjarrett",
             "repo": "septum",
             "stars": 461
@@ -1249,7 +1249,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-13T09:03:13Z",
+            "last_commit": "2026-08-14T08:53:16Z",
             "owner": "AdaCore",
             "repo": "spark2014",
             "stars": 322
@@ -1727,7 +1727,7 @@
             "last_commit": "2026-03-26T14:26:30Z",
             "owner": "rod-chapman",
             "repo": "SPARKNaCl",
-            "stars": 136
+            "stars": 137
           }
         },
         {
@@ -1822,7 +1822,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-07-30T12:12:11Z",
+            "last_commit": "2026-08-14T19:10:00Z",
             "owner": "jrcarter",
             "repo": "Encryption-utilities",
             "stars": 6
@@ -2272,7 +2272,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-10T09:38:41Z",
+            "last_commit": "2026-08-14T13:17:35Z",
             "owner": "pmderodat",
             "repo": "ada-toml",
             "stars": 37
@@ -4095,10 +4095,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-13T19:55:49Z",
+            "last_commit": "2026-08-13T20:28:24Z",
             "owner": "mk270",
             "repo": "whitakers-words",
-            "stars": 327
+            "stars": 328
           }
         },
         {
@@ -4148,7 +4148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:00:09.745Z",
+    "last_updated": "2026-08-14T19:57:18.571Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
     "enhanced_repository": "enhansome/enhansome-ada",
