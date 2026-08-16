@@ -78,7 +78,7 @@
             "last_commit": "2026-08-13T16:11:39Z",
             "owner": "zertovitch",
             "repo": "hac",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -451,6 +451,20 @@
       "items": [
         {
           "node_type": "item",
+          "title": "cubit",
+          "description": "CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ada",
+            "last_commit": "2026-08-16T02:56:51Z",
+            "owner": "docandrew",
+            "repo": "CuBit",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
           "title": "bare-bones",
           "description": "An Ada port of the osdev.org minimal 32-bit x86 kernel.",
           "children": [],
@@ -460,21 +474,7 @@
             "last_commit": "2016-11-20T15:24:39Z",
             "owner": "Lucretia",
             "repo": "bare_bones",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cubit",
-          "description": "CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ada",
-            "last_commit": "2026-05-22T23:15:57Z",
-            "owner": "docandrew",
-            "repo": "CuBit",
-            "stars": 89
+            "stars": 88
           }
         },
         {
@@ -561,7 +561,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-15T03:19:29Z",
+            "last_commit": "2026-08-16T03:30:40Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -3813,7 +3813,7 @@
             "last_commit": "2026-08-13T16:56:28Z",
             "owner": "ghdl",
             "repo": "ghdl",
-            "stars": 2864
+            "stars": 2865
           }
         },
         {
@@ -4148,7 +4148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:35:04.043Z",
+    "last_updated": "2026-08-16T19:34:35.450Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
     "enhanced_repository": "enhansome/enhansome-ada",
