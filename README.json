@@ -550,7 +550,7 @@
             "last_commit": "2024-05-26T15:22:30Z",
             "owner": "tsoding",
             "repo": "eepers",
-            "stars": 470
+            "stars": 471
           }
         },
         {
@@ -561,7 +561,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-16T03:30:40Z",
+            "last_commit": "2026-08-17T03:24:48Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -886,7 +886,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-14T11:59:07Z",
+            "last_commit": "2026-08-17T10:03:41Z",
             "owner": "AdaCore",
             "repo": "gtkada",
             "stars": 109
@@ -1249,7 +1249,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-14T08:53:16Z",
+            "last_commit": "2026-08-17T19:17:07Z",
             "owner": "AdaCore",
             "repo": "spark2014",
             "stars": 322
@@ -1263,7 +1263,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-11T00:54:43Z",
+            "last_commit": "2026-08-17T09:05:19Z",
             "owner": "AdaCore",
             "repo": "gnatcoverage",
             "stars": 46
@@ -1550,7 +1550,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-12T10:34:07Z",
+            "last_commit": "2026-08-17T14:15:39Z",
             "owner": "AdaCore",
             "repo": "ada_language_server",
             "stars": 301
@@ -2084,7 +2084,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-13T13:57:54Z",
+            "last_commit": "2026-08-17T14:09:30Z",
             "owner": "AdaCore",
             "repo": "libadalang",
             "stars": 169
@@ -3810,7 +3810,7 @@
           "repo_info": {
             "archived": false,
             "language": "VHDL",
-            "last_commit": "2026-08-13T16:56:28Z",
+            "last_commit": "2026-08-17T19:33:00Z",
             "owner": "ghdl",
             "repo": "ghdl",
             "stars": 2865
@@ -4148,7 +4148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:34:35.450Z",
+    "last_updated": "2026-08-17T19:43:24.656Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
     "enhanced_repository": "enhansome/enhansome-ada",
