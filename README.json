@@ -423,7 +423,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-07-30T15:49:07Z",
+            "last_commit": "2026-08-18T09:10:34Z",
             "owner": "AdaCore",
             "repo": "bb-runtimes",
             "stars": 71
@@ -561,7 +561,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-17T03:24:48Z",
+            "last_commit": "2026-08-18T03:25:51Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -838,7 +838,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-02T09:46:43Z",
+            "last_commit": "2026-08-18T08:15:02Z",
             "owner": "charlie5",
             "repo": "lace",
             "stars": 12
@@ -886,7 +886,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-17T10:03:41Z",
+            "last_commit": "2026-08-18T09:12:52Z",
             "owner": "AdaCore",
             "repo": "gtkada",
             "stars": 109
@@ -1204,7 +1204,7 @@
             "last_commit": "2026-08-14T16:59:58Z",
             "owner": "pyjarrett",
             "repo": "septum",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -1249,7 +1249,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-17T19:17:07Z",
+            "last_commit": "2026-08-18T07:34:20Z",
             "owner": "AdaCore",
             "repo": "spark2014",
             "stars": 322
@@ -1263,7 +1263,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-17T09:05:19Z",
+            "last_commit": "2026-08-18T13:31:08Z",
             "owner": "AdaCore",
             "repo": "gnatcoverage",
             "stars": 46
@@ -1550,7 +1550,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-17T14:15:39Z",
+            "last_commit": "2026-08-18T12:36:20Z",
             "owner": "AdaCore",
             "repo": "ada_language_server",
             "stars": 301
@@ -2084,7 +2084,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-17T14:09:30Z",
+            "last_commit": "2026-08-18T15:40:48Z",
             "owner": "AdaCore",
             "repo": "libadalang",
             "stars": 169
@@ -3281,7 +3281,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-08-15T02:06:41Z",
+            "last_commit": "2026-08-17T22:40:05Z",
             "owner": "gabriele-galeotti",
             "repo": "SweetAda",
             "stars": 53
@@ -3810,10 +3810,10 @@
           "repo_info": {
             "archived": false,
             "language": "VHDL",
-            "last_commit": "2026-08-17T19:33:00Z",
+            "last_commit": "2026-08-18T05:57:39Z",
             "owner": "ghdl",
             "repo": "ghdl",
-            "stars": 2865
+            "stars": 2866
           }
         },
         {
@@ -4148,7 +4148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:43:24.656Z",
+    "last_updated": "2026-08-18T19:41:24.971Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
     "enhanced_repository": "enhansome/enhansome-ada",
