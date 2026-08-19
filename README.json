@@ -220,7 +220,7 @@
                 "last_commit": "2026-08-03T01:23:09Z",
                 "owner": "alire-project",
                 "repo": "alire",
-                "stars": 409
+                "stars": 410
               }
             },
             {
@@ -250,7 +250,7 @@
                 "last_commit": "2026-07-29T10:11:00Z",
                 "owner": "AdaCore",
                 "repo": "gprbuild",
-                "stars": 80
+                "stars": 81
               }
             },
             {
@@ -937,7 +937,7 @@
                 "archived": false,
                 "id": 43377943,
                 "language": "Ada",
-                "last_commit": "2026-08-19T11:36:08Z",
+                "last_commit": "2026-08-19T13:29:21Z",
                 "owner": "AdaCore",
                 "repo": "gtkada",
                 "stars": 109
@@ -2449,7 +2449,7 @@
                 "archived": false,
                 "id": 47627172,
                 "language": "Ada",
-                "last_commit": "2026-08-18T15:40:48Z",
+                "last_commit": "2026-08-19T17:47:36Z",
                 "owner": "AdaCore",
                 "repo": "libadalang",
                 "stars": 170
@@ -4648,7 +4648,7 @@
                 "archived": false,
                 "id": 37367962,
                 "language": "Ada",
-                "last_commit": "2026-08-13T20:28:24Z",
+                "last_commit": "2026-08-19T19:12:26Z",
                 "owner": "mk270",
                 "repo": "whitakers-words",
                 "stars": 328
@@ -4709,7 +4709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:14:37.430Z",
+    "last_updated": "2026-08-19T19:41:19.342Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_id": 154575475,
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
