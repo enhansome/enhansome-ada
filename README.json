@@ -433,7 +433,7 @@
             "last_commit": "2025-03-18T18:29:51Z",
             "owner": "simonjwright",
             "repo": "FreeRTOS-Ada",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -592,7 +592,7 @@
             "archived": false,
             "id": 63979714,
             "language": "Nim",
-            "last_commit": "2026-08-19T03:23:19Z",
+            "last_commit": "2026-08-20T03:11:34Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -885,7 +885,7 @@
                 "archived": false,
                 "id": 519707196,
                 "language": "Ada",
-                "last_commit": "2026-08-18T08:15:02Z",
+                "last_commit": "2026-08-20T14:25:54Z",
                 "owner": "charlie5",
                 "repo": "lace",
                 "stars": 12
@@ -937,7 +937,7 @@
                 "archived": false,
                 "id": 43377943,
                 "language": "Ada",
-                "last_commit": "2026-08-19T13:29:21Z",
+                "last_commit": "2026-08-20T14:16:12Z",
                 "owner": "AdaCore",
                 "repo": "gtkada",
                 "stars": 109
@@ -970,7 +970,7 @@
                 "last_commit": "2026-07-10T19:26:05Z",
                 "owner": "zertovitch",
                 "repo": "gwindows",
-                "stars": 26
+                "stars": 27
               }
             },
             {
@@ -1363,7 +1363,7 @@
                 "archived": false,
                 "id": 162105706,
                 "language": "Ada",
-                "last_commit": "2026-07-02T08:31:22Z",
+                "last_commit": "2026-08-20T12:30:31Z",
                 "owner": "AdaCore",
                 "repo": "aunit",
                 "stars": 12
@@ -1488,7 +1488,7 @@
                 "archived": false,
                 "id": 66867667,
                 "language": "Ada",
-                "last_commit": "2026-08-19T11:39:28Z",
+                "last_commit": "2026-08-20T08:19:05Z",
                 "owner": "AdaCore",
                 "repo": "spark2014",
                 "stars": 322
@@ -1503,7 +1503,7 @@
                 "archived": false,
                 "id": 85963367,
                 "language": "Ada",
-                "last_commit": "2026-08-19T10:44:38Z",
+                "last_commit": "2026-08-20T15:47:24Z",
                 "owner": "AdaCore",
                 "repo": "gnatcoverage",
                 "stars": 46
@@ -1814,7 +1814,7 @@
                 "archived": false,
                 "id": 90789594,
                 "language": "Ada",
-                "last_commit": "2026-08-19T11:13:43Z",
+                "last_commit": "2026-08-20T10:23:13Z",
                 "owner": "AdaCore",
                 "repo": "ada_language_server",
                 "stars": 301
@@ -2449,7 +2449,7 @@
                 "archived": false,
                 "id": 47627172,
                 "language": "Ada",
-                "last_commit": "2026-08-19T17:47:36Z",
+                "last_commit": "2026-08-20T13:45:04Z",
                 "owner": "AdaCore",
                 "repo": "libadalang",
                 "stars": 170
@@ -4341,7 +4341,7 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-19T05:47:01Z",
+                "last_commit": "2026-08-20T07:49:30Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2866
@@ -4648,7 +4648,7 @@
                 "archived": false,
                 "id": 37367962,
                 "language": "Ada",
-                "last_commit": "2026-08-19T19:12:26Z",
+                "last_commit": "2026-08-20T08:43:46Z",
                 "owner": "mk270",
                 "repo": "whitakers-words",
                 "stars": 328
@@ -4709,7 +4709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:41:19.342Z",
+    "last_updated": "2026-08-20T19:46:51.041Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_id": 154575475,
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
