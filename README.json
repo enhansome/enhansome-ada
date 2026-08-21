@@ -220,7 +220,7 @@
                 "last_commit": "2026-08-03T01:23:09Z",
                 "owner": "alire-project",
                 "repo": "alire",
-                "stars": 410
+                "stars": 404
               }
             },
             {
@@ -592,7 +592,7 @@
             "archived": false,
             "id": 63979714,
             "language": "Nim",
-            "last_commit": "2026-08-20T03:11:34Z",
+            "last_commit": "2026-08-21T03:16:34Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -622,7 +622,7 @@
             "archived": false,
             "id": 54922952,
             "language": "Ada",
-            "last_commit": "2026-05-05T13:27:13Z",
+            "last_commit": "2026-08-21T11:33:27Z",
             "owner": "fastrgv",
             "repo": "AdaGate",
             "stars": 25
@@ -652,7 +652,7 @@
             "archived": false,
             "id": 67755930,
             "language": "Ada",
-            "last_commit": "2026-05-05T13:26:40Z",
+            "last_commit": "2026-08-21T11:32:28Z",
             "owner": "fastrgv",
             "repo": "AdaVenture",
             "stars": 18
@@ -727,7 +727,7 @@
             "archived": false,
             "id": 54974445,
             "language": "Ada",
-            "last_commit": "2026-01-18T13:16:49Z",
+            "last_commit": "2026-08-21T11:28:44Z",
             "owner": "fastrgv",
             "repo": "RufasCube",
             "stars": 5
@@ -757,7 +757,7 @@
             "archived": false,
             "id": 55075468,
             "language": "Ada",
-            "last_commit": "2026-02-07T17:35:24Z",
+            "last_commit": "2026-08-21T11:35:34Z",
             "owner": "fastrgv",
             "repo": "WorldCupSokerban",
             "stars": 4
@@ -885,7 +885,7 @@
                 "archived": false,
                 "id": 519707196,
                 "language": "Ada",
-                "last_commit": "2026-08-20T14:25:54Z",
+                "last_commit": "2026-08-21T13:10:48Z",
                 "owner": "charlie5",
                 "repo": "lace",
                 "stars": 12
@@ -1329,7 +1329,7 @@
                 "last_commit": "2026-05-03T06:59:51Z",
                 "owner": "godunko",
                 "repo": "matreshka",
-                "stars": 14
+                "stars": 15
               }
             }
           ],
@@ -1439,7 +1439,7 @@
                 "last_commit": "2026-08-14T16:59:58Z",
                 "owner": "pyjarrett",
                 "repo": "septum",
-                "stars": 462
+                "stars": 461
               }
             },
             {
@@ -1454,7 +1454,7 @@
                 "last_commit": "2026-02-13T11:19:45Z",
                 "owner": "joular",
                 "repo": "powerjoular",
-                "stars": 115
+                "stars": 116
               }
             },
             {
@@ -1491,7 +1491,7 @@
                 "last_commit": "2026-08-20T08:19:05Z",
                 "owner": "AdaCore",
                 "repo": "spark2014",
-                "stars": 322
+                "stars": 321
               }
             },
             {
@@ -1503,7 +1503,7 @@
                 "archived": false,
                 "id": 85963367,
                 "language": "Ada",
-                "last_commit": "2026-08-20T15:47:24Z",
+                "last_commit": "2026-08-21T13:07:21Z",
                 "owner": "AdaCore",
                 "repo": "gnatcoverage",
                 "stars": 46
@@ -1558,7 +1558,7 @@
                 "last_commit": "2026-01-07T16:31:39Z",
                 "owner": "AdaCore",
                 "repo": "RecordFlux",
-                "stars": 129
+                "stars": 128
               }
             },
             {
@@ -1814,7 +1814,7 @@
                 "archived": false,
                 "id": 90789594,
                 "language": "Ada",
-                "last_commit": "2026-08-20T10:23:13Z",
+                "last_commit": "2026-08-21T16:10:50Z",
                 "owner": "AdaCore",
                 "repo": "ada_language_server",
                 "stars": 301
@@ -2449,7 +2449,7 @@
                 "archived": false,
                 "id": 47627172,
                 "language": "Ada",
-                "last_commit": "2026-08-20T13:45:04Z",
+                "last_commit": "2026-08-21T15:25:35Z",
                 "owner": "AdaCore",
                 "repo": "libadalang",
                 "stars": 170
@@ -3286,7 +3286,7 @@
                 "archived": false,
                 "id": 310425239,
                 "language": "C",
-                "last_commit": "2024-10-14T15:17:58Z",
+                "last_commit": "2026-08-21T11:59:08Z",
                 "owner": "fastrgv",
                 "repo": "Portable-OpenAL-Sound",
                 "stars": 1
@@ -4344,7 +4344,7 @@
                 "last_commit": "2026-08-20T07:49:30Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2866
+                "stars": 2865
               }
             },
             {
@@ -4648,7 +4648,7 @@
                 "archived": false,
                 "id": 37367962,
                 "language": "Ada",
-                "last_commit": "2026-08-20T08:43:46Z",
+                "last_commit": "2026-08-21T15:07:00Z",
                 "owner": "mk270",
                 "repo": "whitakers-words",
                 "stars": 328
@@ -4709,7 +4709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:46:51.041Z",
+    "last_updated": "2026-08-21T19:38:29.953Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_id": 154575475,
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
