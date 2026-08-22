@@ -220,7 +220,7 @@
                 "last_commit": "2026-08-03T01:23:09Z",
                 "owner": "alire-project",
                 "repo": "alire",
-                "stars": 404
+                "stars": 405
               }
             },
             {
@@ -235,7 +235,7 @@
                 "last_commit": "2026-06-26T19:24:40Z",
                 "owner": "jrmarino",
                 "repo": "synth",
-                "stars": 271
+                "stars": 272
               }
             },
             {
@@ -418,7 +418,7 @@
             "last_commit": "2025-02-16T19:55:51Z",
             "owner": "godunko",
             "repo": "adawebpack",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -580,7 +580,7 @@
             "last_commit": "2024-05-26T15:22:30Z",
             "owner": "tsoding",
             "repo": "eepers",
-            "stars": 471
+            "stars": 472
           }
         },
         {
@@ -592,7 +592,7 @@
             "archived": false,
             "id": 63979714,
             "language": "Nim",
-            "last_commit": "2026-08-21T03:16:34Z",
+            "last_commit": "2026-08-22T03:31:17Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -888,7 +888,7 @@
                 "last_commit": "2026-08-21T13:10:48Z",
                 "owner": "charlie5",
                 "repo": "lace",
-                "stars": 12
+                "stars": 13
               }
             },
             {
@@ -1284,7 +1284,7 @@
                 "last_commit": "2026-08-09T10:11:24Z",
                 "owner": "stcarrez",
                 "repo": "ada-awa",
-                "stars": 112
+                "stars": 113
               }
             },
             {
@@ -1439,7 +1439,7 @@
                 "last_commit": "2026-08-14T16:59:58Z",
                 "owner": "pyjarrett",
                 "repo": "septum",
-                "stars": 461
+                "stars": 463
               }
             },
             {
@@ -1454,7 +1454,7 @@
                 "last_commit": "2026-02-13T11:19:45Z",
                 "owner": "joular",
                 "repo": "powerjoular",
-                "stars": 116
+                "stars": 117
               }
             },
             {
@@ -1491,7 +1491,7 @@
                 "last_commit": "2026-08-20T08:19:05Z",
                 "owner": "AdaCore",
                 "repo": "spark2014",
-                "stars": 321
+                "stars": 322
               }
             },
             {
@@ -1817,7 +1817,7 @@
                 "last_commit": "2026-08-21T16:10:50Z",
                 "owner": "AdaCore",
                 "repo": "ada_language_server",
-                "stars": 301
+                "stars": 302
               }
             },
             {
@@ -2654,7 +2654,7 @@
                 "last_commit": "2026-08-14T13:17:35Z",
                 "owner": "pmderodat",
                 "repo": "ada-toml",
-                "stars": 37
+                "stars": 38
               }
             },
             {
@@ -2913,7 +2913,7 @@
                 "archived": false,
                 "id": 847004237,
                 "language": "Ada",
-                "last_commit": "2026-02-22T19:52:23Z",
+                "last_commit": "2026-08-22T17:57:30Z",
                 "owner": "mgrojo",
                 "repo": "coap_spark",
                 "stars": 8
@@ -3308,7 +3308,7 @@
                 "archived": false,
                 "id": 312068339,
                 "language": "Ada",
-                "last_commit": "2026-07-18T17:35:50Z",
+                "last_commit": "2026-08-22T14:48:56Z",
                 "owner": "Blady-Com",
                 "repo": "UXStrings",
                 "stars": 18
@@ -4344,7 +4344,7 @@
                 "last_commit": "2026-08-20T07:49:30Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2865
+                "stars": 2866
               }
             },
             {
@@ -4651,7 +4651,7 @@
                 "last_commit": "2026-08-21T15:07:00Z",
                 "owner": "mk270",
                 "repo": "whitakers-words",
-                "stars": 328
+                "stars": 329
               }
             },
             {
@@ -4709,7 +4709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:38:29.953Z",
+    "last_updated": "2026-08-22T19:36:14.119Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_id": 154575475,
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
