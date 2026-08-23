@@ -217,10 +217,10 @@
                 "archived": false,
                 "id": 124904219,
                 "language": "Ada",
-                "last_commit": "2026-08-03T01:23:09Z",
+                "last_commit": "2026-08-23T11:14:01Z",
                 "owner": "alire-project",
                 "repo": "alire",
-                "stars": 405
+                "stars": 404
               }
             },
             {
@@ -235,7 +235,7 @@
                 "last_commit": "2026-06-26T19:24:40Z",
                 "owner": "jrmarino",
                 "repo": "synth",
-                "stars": 272
+                "stars": 273
               }
             },
             {
@@ -418,7 +418,7 @@
             "last_commit": "2025-02-16T19:55:51Z",
             "owner": "godunko",
             "repo": "adawebpack",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -481,7 +481,7 @@
             "archived": false,
             "id": 245561816,
             "language": "Ada",
-            "last_commit": "2026-08-16T02:56:51Z",
+            "last_commit": "2026-08-23T16:17:15Z",
             "owner": "docandrew",
             "repo": "CuBit",
             "stars": 89
@@ -580,7 +580,7 @@
             "last_commit": "2024-05-26T15:22:30Z",
             "owner": "tsoding",
             "repo": "eepers",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -592,7 +592,7 @@
             "archived": false,
             "id": 63979714,
             "language": "Nim",
-            "last_commit": "2026-08-22T03:31:17Z",
+            "last_commit": "2026-08-23T03:24:20Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -885,7 +885,7 @@
                 "archived": false,
                 "id": 519707196,
                 "language": "Ada",
-                "last_commit": "2026-08-21T13:10:48Z",
+                "last_commit": "2026-08-23T10:38:40Z",
                 "owner": "charlie5",
                 "repo": "lace",
                 "stars": 13
@@ -2913,7 +2913,7 @@
                 "archived": false,
                 "id": 847004237,
                 "language": "Ada",
-                "last_commit": "2026-08-22T17:57:30Z",
+                "last_commit": "2026-08-23T18:24:10Z",
                 "owner": "mgrojo",
                 "repo": "coap_spark",
                 "stars": 8
@@ -4344,7 +4344,7 @@
                 "last_commit": "2026-08-20T07:49:30Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2866
+                "stars": 2867
               }
             },
             {
@@ -4709,7 +4709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:36:14.119Z",
+    "last_updated": "2026-08-23T19:36:09.897Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_id": 154575475,
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
