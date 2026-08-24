@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "spark-by-example",
+              "description": "Collection of verified functions and data types in SPARK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132722473,
+                "language": "Ada",
+                "last_commit": "2022-08-16T14:45:25Z",
+                "owner": "tofgarion",
+                "repo": "spark-by-example",
+                "stars": 167
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ada-composition",
+              "description": "A collections of small nifty demos/sample code that may help better layout data or structure project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163063414,
+                "language": "Ada",
+                "last_commit": "2019-11-25T19:24:11Z",
+                "owner": "gerr135",
+                "repo": "ada_composition",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Specialties"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "adalib",
               "description": "Standard Ada library specification as defined in Reference Manual.",
               "children": [],
@@ -52,6 +96,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "fsf-gnat",
+                  "description": "Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2022, Ada 2012, Ada 2005, Ada 95 and Ada 83.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 366306956,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T08:12:35Z",
+                    "owner": "alire-project",
+                    "repo": "GNAT-FSF-builds",
+                    "stars": 59
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPL (with linking exception)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "hac",
                   "description": "The HAC Ada Compiler - a small, quick Ada compiler fully in Ada.",
                   "children": [],
@@ -84,11 +150,62 @@
               "description": null,
               "node_type": "group",
               "title": "MIT"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "augusta",
+                  "description": "Ada compiler written in Scala that targets LLVM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52304444,
+                    "language": "Scala",
+                    "last_commit": "2025-05-05T19:25:43Z",
+                    "owner": "pchapin",
+                    "repo": "augusta",
+                    "stars": 32
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Apache License"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Open source"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gnat-ce (discontinued)",
+                  "description": "GNAT Community edition. A release of AdaCore GNAT for free software developers, hobbyists, and students. The run-time libraries provided with GNAT Community are licensed under GPLv3 without linking exception. It supports Ada 2012 only.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1013623814,
+                    "language": "Python",
+                    "last_commit": "2025-07-04T15:36:04Z",
+                    "owner": "AdaCore",
+                    "repo": "gnat-community-archives",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPL (no linking exception)"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Online"
         }
       ],
       "title": "Compilers"
@@ -96,6 +213,50 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The GNAT Programming Studio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67724755,
+                "language": "Ada",
+                "last_commit": "2026-08-18T12:38:47Z",
+                "owner": "AdaCore",
+                "repo": "gnatstudio",
+                "stars": 528
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Integrated Development Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lea",
+              "description": "A Lightweight Editor for Ada, aims to provide an easy, script-world-like, \"look & feel\" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208612890,
+                "language": "Ada",
+                "last_commit": "2026-06-18T17:51:10Z",
+                "owner": "zertovitch",
+                "repo": "lea",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editors"
+        },
         {
           "children": [
             {
@@ -217,7 +378,7 @@
                 "archived": false,
                 "id": 124904219,
                 "language": "Ada",
-                "last_commit": "2026-08-23T11:14:01Z",
+                "last_commit": "2026-08-24T00:52:52Z",
                 "owner": "alire-project",
                 "repo": "alire",
                 "stars": 404
@@ -592,7 +753,7 @@
             "archived": false,
             "id": 63979714,
             "language": "Nim",
-            "last_commit": "2026-08-23T03:24:20Z",
+            "last_commit": "2026-08-24T03:38:16Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -637,7 +798,7 @@
             "archived": false,
             "id": 291585928,
             "language": "Ada",
-            "last_commit": "2026-07-30T18:01:02Z",
+            "last_commit": "2026-08-23T20:28:11Z",
             "owner": "HonkiTonk",
             "repo": "Honki-Tonks-Zivilisationen",
             "stars": 23
@@ -885,7 +1046,7 @@
                 "archived": false,
                 "id": 519707196,
                 "language": "Ada",
-                "last_commit": "2026-08-23T10:38:40Z",
+                "last_commit": "2026-08-24T04:01:14Z",
                 "owner": "charlie5",
                 "repo": "lace",
                 "stars": 13
@@ -925,6 +1086,28 @@
           "description": null,
           "node_type": "group",
           "title": "Components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "poly-orb",
+              "description": "PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119374674,
+                "language": "Ada",
+                "last_commit": "2026-06-26T08:43:48Z",
+                "owner": "AdaCore",
+                "repo": "PolyORB",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Distributed"
         },
         {
           "children": [
@@ -1183,6 +1366,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "aws",
+              "description": "Ada Web Server is a complete framework to develop Web based applications in Ada.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51081789,
+                "language": "Ada",
+                "last_commit": "2026-08-21T13:01:40Z",
+                "owner": "AdaCore",
+                "repo": "aws",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
               "title": "awa",
               "description": "Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.",
               "children": [
@@ -1418,6 +1616,28 @@
           "description": null,
           "node_type": "group",
           "title": "Unit Test, Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elogs",
+              "description": "Logging framework for embedded systems absent of runtime errors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 733112944,
+                "language": "Ada",
+                "last_commit": "2026-04-10T10:23:09Z",
+                "owner": "kevlar700",
+                "repo": "elogs",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Logging"
         }
       ],
       "title": "Frameworks"
@@ -1488,7 +1708,7 @@
                 "archived": false,
                 "id": 66867667,
                 "language": "Ada",
-                "last_commit": "2026-08-20T08:19:05Z",
+                "last_commit": "2026-08-24T09:06:14Z",
                 "owner": "AdaCore",
                 "repo": "spark2014",
                 "stars": 322
@@ -1503,7 +1723,7 @@
                 "archived": false,
                 "id": 85963367,
                 "language": "Ada",
-                "last_commit": "2026-08-21T13:07:21Z",
+                "last_commit": "2026-08-24T13:18:44Z",
                 "owner": "AdaCore",
                 "repo": "gnatcoverage",
                 "stars": 46
@@ -1662,6 +1882,28 @@
           "description": null,
           "node_type": "group",
           "title": "UML"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ada-keystore",
+              "description": "Ada Keystore - protect your sensitive data with secure storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185473943,
+                "language": "Ada",
+                "last_commit": "2026-08-09T10:24:47Z",
+                "owner": "stcarrez",
+                "repo": "ada-keystore",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Encryption"
         }
       ],
       "title": "Tools"
@@ -1983,6 +2225,21 @@
                 "owner": "alire-project",
                 "repo": "smart_pointers",
                 "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simple-blockchain",
+              "description": "Simple blockchain in Ada.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137361790,
+                "language": "Ada",
+                "last_commit": "2025-09-11T09:41:34Z",
+                "owner": "tomekw",
+                "repo": "simple_blockchain",
+                "stars": 24
               }
             },
             {
@@ -3010,6 +3267,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "template-parser",
+              "description": "AWS templates engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51081856,
+                "language": "Ada",
+                "last_commit": "2026-07-14T16:24:16Z",
+                "owner": "AdaCore",
+                "repo": "templates-parser",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "sdlada",
               "description": "Ada 2012 bindings to SDL 2.",
               "children": [],
@@ -3769,7 +4048,7 @@
                 "archived": false,
                 "id": 391203838,
                 "language": "Ada",
-                "last_commit": "2026-08-17T22:40:05Z",
+                "last_commit": "2026-08-23T22:28:24Z",
                 "owner": "gabriele-galeotti",
                 "repo": "SweetAda",
                 "stars": 53
@@ -3824,6 +4103,28 @@
           "description": null,
           "node_type": "group",
           "title": "Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "certiflie",
+              "description": "Source code for the full Ada + SPARK Crazyflie 2.0 firmware.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47131537,
+                "language": "Ada",
+                "last_commit": "2018-09-25T10:53:31Z",
+                "owner": "AdaCore",
+                "repo": "Certyflie",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firmwares"
         },
         {
           "children": [
@@ -3906,6 +4207,28 @@
           "description": null,
           "node_type": "group",
           "title": "Drivers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "solenoid-engine-controller",
+              "description": "Software controller for solenoid engines (Ada/STM32F4).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34665691,
+                "language": "Ada",
+                "last_commit": "2015-11-21T17:17:10Z",
+                "owner": "Fabien-Chouteau",
+                "repo": "solenoid-engine-controller",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Controllers"
         },
         {
           "children": [
@@ -4182,6 +4505,28 @@
           "description": null,
           "node_type": "group",
           "title": "Applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "svd2ada",
+              "description": "An Ada binding generator from SVD descriptions for bare board ARM devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46849751,
+                "language": "Ada",
+                "last_commit": "2026-08-19T11:17:27Z",
+                "owner": "AdaCore",
+                "repo": "svd2ada",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generators"
         }
       ],
       "title": "Hardware and Embedded"
@@ -4334,6 +4679,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "acnc",
+              "description": "A G-code parser and CNC controller (in Ada).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51259208,
+                "language": "Ada",
+                "last_commit": "2019-06-21T15:58:19Z",
+                "owner": "Fabien-Chouteau",
+                "repo": "ACNC",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Automation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ghdl",
               "description": "VHDL 2008/93/87 simulator.",
               "children": [],
@@ -4341,7 +4708,7 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-20T07:49:30Z",
+                "last_commit": "2026-08-24T14:18:22Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2867
@@ -4709,7 +5076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:36:09.897Z",
+    "last_updated": "2026-08-24T14:18:42.562Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_id": 154575475,
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
