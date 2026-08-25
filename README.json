@@ -103,7 +103,7 @@
                     "archived": false,
                     "id": 366306956,
                     "language": "Python",
-                    "last_commit": "2026-08-18T08:12:35Z",
+                    "last_commit": "2026-08-25T08:17:50Z",
                     "owner": "alire-project",
                     "repo": "GNAT-FSF-builds",
                     "stars": 59
@@ -798,7 +798,7 @@
             "archived": false,
             "id": 291585928,
             "language": "Ada",
-            "last_commit": "2026-08-23T20:28:11Z",
+            "last_commit": "2026-08-25T16:03:12Z",
             "owner": "HonkiTonk",
             "repo": "Honki-Tonks-Zivilisationen",
             "stars": 23
@@ -1561,7 +1561,7 @@
                 "archived": false,
                 "id": 162105706,
                 "language": "Ada",
-                "last_commit": "2026-08-20T12:30:31Z",
+                "last_commit": "2026-08-25T08:31:21Z",
                 "owner": "AdaCore",
                 "repo": "aunit",
                 "stars": 12
@@ -1708,7 +1708,7 @@
                 "archived": false,
                 "id": 66867667,
                 "language": "Ada",
-                "last_commit": "2026-08-24T09:06:14Z",
+                "last_commit": "2026-08-25T14:00:25Z",
                 "owner": "AdaCore",
                 "repo": "spark2014",
                 "stars": 322
@@ -1723,7 +1723,7 @@
                 "archived": false,
                 "id": 85963367,
                 "language": "Ada",
-                "last_commit": "2026-08-25T00:54:57Z",
+                "last_commit": "2026-08-25T18:46:18Z",
                 "owner": "AdaCore",
                 "repo": "gnatcoverage",
                 "stars": 46
@@ -1805,7 +1805,7 @@
                 "archived": false,
                 "id": 83965727,
                 "language": "Ada",
-                "last_commit": "2023-11-02T20:31:03Z",
+                "last_commit": "2026-08-25T09:54:15Z",
                 "owner": "Blady-Com",
                 "repo": "Automate",
                 "stars": 8
@@ -4063,7 +4063,7 @@
                 "archived": false,
                 "id": 712630372,
                 "language": "Ada",
-                "last_commit": "2026-08-19T03:05:52Z",
+                "last_commit": "2026-08-25T15:36:31Z",
                 "owner": "lasp",
                 "repo": "adamant",
                 "stars": 49
@@ -4708,10 +4708,10 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-25T05:57:53Z",
+                "last_commit": "2026-08-25T06:17:32Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2867
+                "stars": 2868
               }
             },
             {
@@ -5076,7 +5076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:51.191Z",
+    "last_updated": "2026-08-25T19:46:34.119Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_id": 154575475,
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
