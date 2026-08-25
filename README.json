@@ -753,7 +753,7 @@
             "archived": false,
             "id": 63979714,
             "language": "Nim",
-            "last_commit": "2026-08-24T03:38:16Z",
+            "last_commit": "2026-08-25T03:43:02Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -1150,7 +1150,7 @@
                 "archived": false,
                 "id": 208611096,
                 "language": "Ada",
-                "last_commit": "2026-07-10T19:26:05Z",
+                "last_commit": "2026-08-25T02:18:23Z",
                 "owner": "zertovitch",
                 "repo": "gwindows",
                 "stars": 27
@@ -1723,7 +1723,7 @@
                 "archived": false,
                 "id": 85963367,
                 "language": "Ada",
-                "last_commit": "2026-08-24T13:18:44Z",
+                "last_commit": "2026-08-25T00:54:57Z",
                 "owner": "AdaCore",
                 "repo": "gnatcoverage",
                 "stars": 46
@@ -3170,7 +3170,7 @@
                 "archived": false,
                 "id": 847004237,
                 "language": "Ada",
-                "last_commit": "2026-08-23T18:24:10Z",
+                "last_commit": "2026-08-24T21:06:31Z",
                 "owner": "mgrojo",
                 "repo": "coap_spark",
                 "stars": 8
@@ -4575,7 +4575,7 @@
                 "archived": false,
                 "id": 208607092,
                 "language": "Ada",
-                "last_commit": "2026-06-18T17:51:39Z",
+                "last_commit": "2026-08-25T02:26:03Z",
                 "owner": "zertovitch",
                 "repo": "azip",
                 "stars": 16
@@ -4708,7 +4708,7 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-24T19:42:48Z",
+                "last_commit": "2026-08-25T05:57:53Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2867
@@ -5076,7 +5076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:45:37.508Z",
+    "last_updated": "2026-08-25T06:11:51.191Z",
     "original_repository": "ohenley/awesome-ada",
     "original_repository_id": 154575475,
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
