@@ -378,7 +378,7 @@
                 "archived": false,
                 "id": 124904219,
                 "language": "Ada",
-                "last_commit": "2026-08-24T00:52:52Z",
+                "last_commit": "2026-08-27T08:40:39Z",
                 "owner": "alire-project",
                 "repo": "alire",
                 "stars": 404
@@ -642,7 +642,7 @@
             "archived": false,
             "id": 245561816,
             "language": "Ada",
-            "last_commit": "2026-08-26T03:30:46Z",
+            "last_commit": "2026-08-27T02:40:22Z",
             "owner": "docandrew",
             "repo": "CuBit",
             "stars": 89
@@ -717,7 +717,7 @@
             "archived": false,
             "id": 1114304032,
             "language": "Ada",
-            "last_commit": "2026-08-18T22:59:42Z",
+            "last_commit": "2026-08-26T23:50:04Z",
             "owner": "ajxs",
             "repo": "straylight",
             "stars": 3
@@ -753,7 +753,7 @@
             "archived": false,
             "id": 63979714,
             "language": "Nim",
-            "last_commit": "2026-08-26T03:29:26Z",
+            "last_commit": "2026-08-27T03:42:34Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -1373,7 +1373,7 @@
                 "archived": false,
                 "id": 51081789,
                 "language": "Ada",
-                "last_commit": "2026-08-26T11:28:40Z",
+                "last_commit": "2026-08-27T10:18:15Z",
                 "owner": "AdaCore",
                 "repo": "aws",
                 "stars": 160
@@ -1708,7 +1708,7 @@
                 "archived": false,
                 "id": 66867667,
                 "language": "Ada",
-                "last_commit": "2026-08-26T21:55:19Z",
+                "last_commit": "2026-08-26T23:45:22Z",
                 "owner": "AdaCore",
                 "repo": "spark2014",
                 "stars": 322
@@ -1723,7 +1723,7 @@
                 "archived": false,
                 "id": 85963367,
                 "language": "Ada",
-                "last_commit": "2026-08-26T09:51:20Z",
+                "last_commit": "2026-08-27T00:54:45Z",
                 "owner": "AdaCore",
                 "repo": "gnatcoverage",
                 "stars": 46
@@ -2706,7 +2706,7 @@
                 "archived": false,
                 "id": 47627172,
                 "language": "Ada",
-                "last_commit": "2026-08-26T15:04:35Z",
+                "last_commit": "2026-08-27T10:13:55Z",
                 "owner": "AdaCore",
                 "repo": "libadalang",
                 "stars": 170
@@ -4708,7 +4708,7 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-26T18:59:32Z",
+                "last_commit": "2026-08-27T10:21:41Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2868
@@ -5076,9 +5076,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:10:04.258Z",
-    "original_repository": "ohenley/awesome-ada",
-    "original_repository_id": 154575475,
+    "last_updated": "2026-08-27T11:18:15.480Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 154575475,
+      "language": null,
+      "last_commit": "2026-05-31T14:03:49Z",
+      "owner": "ohenley",
+      "repo": "awesome-ada",
+      "stars": 862
+    },
     "original_repository_sha": "d198ec7be5396d029c8c017ec8f4f25c5f3ba68e",
     "enhanced_repository": "enhansome/enhansome-ada",
     "enhanced_repository_description": null,
