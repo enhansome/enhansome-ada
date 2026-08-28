@@ -227,7 +227,7 @@
                 "last_commit": "2026-08-26T09:32:20Z",
                 "owner": "AdaCore",
                 "repo": "gnatstudio",
-                "stars": 528
+                "stars": 527
               }
             }
           ],
@@ -381,7 +381,7 @@
                 "last_commit": "2026-08-27T08:40:39Z",
                 "owner": "alire-project",
                 "repo": "alire",
-                "stars": 404
+                "stars": 405
               }
             },
             {
@@ -1120,7 +1120,7 @@
                 "archived": false,
                 "id": 43377943,
                 "language": "Ada",
-                "last_commit": "2026-08-26T14:07:06Z",
+                "last_commit": "2026-08-27T11:28:43Z",
                 "owner": "AdaCore",
                 "repo": "gtkada",
                 "stars": 109
@@ -1723,7 +1723,7 @@
                 "archived": false,
                 "id": 85963367,
                 "language": "Ada",
-                "last_commit": "2026-08-27T00:54:45Z",
+                "last_commit": "2026-08-28T00:54:59Z",
                 "owner": "AdaCore",
                 "repo": "gnatcoverage",
                 "stars": 46
@@ -3326,7 +3326,7 @@
                 "archived": false,
                 "id": 298900902,
                 "language": "Ada",
-                "last_commit": "2026-08-10T11:41:36Z",
+                "last_commit": "2026-08-27T19:13:17Z",
                 "owner": "mgrojo",
                 "repo": "ASFML",
                 "stars": 43
@@ -3896,7 +3896,7 @@
                 "last_commit": "2026-03-26T11:50:43Z",
                 "owner": "AdaCore",
                 "repo": "win32ada",
-                "stars": 22
+                "stars": 21
               }
             },
             {
@@ -4048,7 +4048,7 @@
                 "archived": false,
                 "id": 391203838,
                 "language": "Ada",
-                "last_commit": "2026-08-26T20:32:18Z",
+                "last_commit": "2026-08-27T21:36:41Z",
                 "owner": "gabriele-galeotti",
                 "repo": "SweetAda",
                 "stars": 53
@@ -4063,7 +4063,7 @@
                 "archived": false,
                 "id": 712630372,
                 "language": "Ada",
-                "last_commit": "2026-08-26T18:48:46Z",
+                "last_commit": "2026-08-27T15:40:16Z",
                 "owner": "lasp",
                 "repo": "adamant",
                 "stars": 49
@@ -4708,10 +4708,10 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-27T10:21:41Z",
+                "last_commit": "2026-08-27T21:19:49Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2868
+                "stars": 2869
               }
             },
             {
@@ -5076,7 +5076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:15.480Z",
+    "last_updated": "2026-08-28T03:35:33.615Z",
     "original_repository_info": {
       "archived": false,
       "id": 154575475,
