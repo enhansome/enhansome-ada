@@ -18,7 +18,8 @@
                 "owner": "tofgarion",
                 "repo": "spark-by-example",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "gerr135",
                 "repo": "ada_composition",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "reznikmm",
                 "repo": "adalib",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -77,7 +80,8 @@
                 "owner": "bracke",
                 "repo": "AdaReferenceCard",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -107,7 +111,8 @@
                     "owner": "alire-project",
                     "repo": "GNAT-FSF-builds",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 }
               ],
               "description": null,
@@ -129,7 +134,8 @@
                     "owner": "zertovitch",
                     "repo": "hac",
                     "stars": 175
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 },
                 {
                   "node_type": "item",
@@ -144,7 +150,8 @@
                     "owner": "OneWingedShark",
                     "repo": "Byron",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 }
               ],
               "description": null,
@@ -166,7 +173,8 @@
                     "owner": "pchapin",
                     "repo": "augusta",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 }
               ],
               "description": null,
@@ -195,7 +203,8 @@
                     "owner": "AdaCore",
                     "repo": "gnat-community-archives",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 }
               ],
               "description": null,
@@ -224,11 +233,12 @@
                 "archived": false,
                 "id": 67724755,
                 "language": "Ada",
-                "last_commit": "2026-08-26T09:32:20Z",
+                "last_commit": "2026-08-28T07:38:31Z",
                 "owner": "AdaCore",
                 "repo": "gnatstudio",
                 "stars": 527
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -250,7 +260,8 @@
                 "owner": "zertovitch",
                 "repo": "lea",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -272,7 +283,8 @@
                 "owner": "tomekw",
                 "repo": "doom-ada",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -287,7 +299,8 @@
                 "owner": "rocher",
                 "repo": "ob-ada-spark",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -302,7 +315,8 @@
                 "owner": "thindil",
                 "repo": "Ada-Bundle",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -317,7 +331,8 @@
                 "owner": "textmate",
                 "repo": "ada.tmbundle",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -339,7 +354,8 @@
                 "owner": "Lucretia",
                 "repo": "ada-vscode",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -354,7 +370,8 @@
                 "owner": "Lucretia",
                 "repo": "ada-utilities",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -378,11 +395,12 @@
                 "archived": false,
                 "id": 124904219,
                 "language": "Ada",
-                "last_commit": "2026-08-27T08:40:39Z",
+                "last_commit": "2026-08-28T03:54:30Z",
                 "owner": "alire-project",
                 "repo": "alire",
                 "stars": 405
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -397,7 +415,8 @@
                 "owner": "jrmarino",
                 "repo": "synth",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -412,7 +431,8 @@
                 "owner": "AdaCore",
                 "repo": "gprbuild",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -427,7 +447,8 @@
                 "owner": "annexi-strayline",
                 "repo": "AURA",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -442,7 +463,8 @@
                 "owner": "tomekw",
                 "repo": "tada",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -457,7 +479,8 @@
                 "owner": "Ravenports",
                 "repo": "ravenadm",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -472,7 +495,8 @@
                 "owner": "mgrojo",
                 "repo": "alr2appimage",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -487,7 +511,8 @@
                 "owner": "offa",
                 "repo": "cmake-ada",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -502,7 +527,8 @@
                 "owner": "mosteo",
                 "repo": "ada4cmake",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -517,7 +543,8 @@
                 "owner": "cho3",
                 "repo": "cmake-ada",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -539,7 +566,8 @@
                 "owner": "ada-actions",
                 "repo": "toolchain",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -554,7 +582,8 @@
                 "owner": "jklmnn",
                 "repo": "continuous-verification",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -580,7 +609,8 @@
             "owner": "godunko",
             "repo": "adawebpack",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -595,7 +625,8 @@
             "owner": "simonjwright",
             "repo": "FreeRTOS-Ada",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -610,7 +641,8 @@
             "owner": "AdaCore",
             "repo": "bb-runtimes",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -625,7 +657,8 @@
             "owner": "Componolit",
             "repo": "ada-runtime",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         }
       ],
       "title": "Runtimes"
@@ -642,11 +675,12 @@
             "archived": false,
             "id": 245561816,
             "language": "Ada",
-            "last_commit": "2026-08-27T02:40:22Z",
+            "last_commit": "2026-08-28T22:58:34Z",
             "owner": "docandrew",
             "repo": "CuBit",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -661,7 +695,8 @@
             "owner": "Lucretia",
             "repo": "bare_bones",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -676,7 +711,8 @@
             "owner": "wookey-project",
             "repo": "ewok-kernel",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -691,7 +727,8 @@
             "owner": "jgrivera67",
             "repo": "HiRTOS",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -706,7 +743,8 @@
             "owner": "RavSS",
             "repo": "HAVK",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -721,7 +759,8 @@
             "owner": "ajxs",
             "repo": "straylight",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         }
       ],
       "title": "OS and Kernels"
@@ -742,7 +781,8 @@
             "owner": "tsoding",
             "repo": "eepers",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -753,11 +793,12 @@
             "archived": false,
             "id": 63979714,
             "language": "Nim",
-            "last_commit": "2026-08-27T03:42:34Z",
+            "last_commit": "2026-08-28T03:46:11Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -772,7 +813,8 @@
             "owner": "ellamosi",
             "repo": "gade",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -787,7 +829,8 @@
             "owner": "fastrgv",
             "repo": "AdaGate",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -802,7 +845,8 @@
             "owner": "HonkiTonk",
             "repo": "Honki-Tonks-Zivilisationen",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -817,7 +861,8 @@
             "owner": "fastrgv",
             "repo": "AdaVenture",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -832,7 +877,8 @@
             "owner": "jfuica",
             "repo": "bingada",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -847,7 +893,8 @@
             "owner": "mgrojo",
             "repo": "play_2048",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -862,7 +909,8 @@
             "owner": "fastrgv",
             "repo": "RetroArcade",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -877,7 +925,8 @@
             "owner": "ellamosi",
             "repo": "gade-sdl",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -892,7 +941,8 @@
             "owner": "fastrgv",
             "repo": "RufasCube",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -907,7 +957,8 @@
             "owner": "andreacervetti",
             "repo": "buttons",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -922,7 +973,8 @@
             "owner": "fastrgv",
             "repo": "WorldCupSokerban",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -937,7 +989,8 @@
             "owner": "jrcarter",
             "repo": "Mine_Detector",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1005,8 @@
             "owner": "AdaCore",
             "repo": "tictactoe",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:13:00.044Z"
         }
       ],
       "title": "Games"
@@ -975,7 +1029,8 @@
                 "owner": "stcarrez",
                 "repo": "ada-util",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -990,7 +1045,8 @@
                 "owner": "AdaCore",
                 "repo": "gnatcoll-core",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1005,7 +1061,8 @@
                 "owner": "Componolit",
                 "repo": "gneiss",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1020,7 +1077,8 @@
                 "owner": "AdaCore",
                 "repo": "gnatcoll-bindings",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1035,7 +1093,8 @@
                 "owner": "AdaCore",
                 "repo": "gnatcoll-db",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1050,7 +1109,8 @@
                 "owner": "charlie5",
                 "repo": "lace",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1065,7 +1125,8 @@
                 "owner": "persan",
                 "repo": "gnatcoll-json",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1080,7 +1141,8 @@
                 "owner": "annexi-strayline",
                 "repo": "ASAP",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1102,7 +1164,8 @@
                 "owner": "AdaCore",
                 "repo": "PolyORB",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1120,11 +1183,12 @@
                 "archived": false,
                 "id": 43377943,
                 "language": "Ada",
-                "last_commit": "2026-08-27T11:28:43Z",
+                "last_commit": "2026-08-28T13:03:24Z",
                 "owner": "AdaCore",
                 "repo": "gtkada",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1139,7 +1203,8 @@
                 "owner": "jrcarter",
                 "repo": "Ada_GUI",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1154,7 +1219,8 @@
                 "owner": "zertovitch",
                 "repo": "gwindows",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1169,7 +1235,8 @@
                 "owner": "Cre8or",
                 "repo": "ImGui-Ada",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1184,7 +1251,8 @@
                 "owner": "godunko",
                 "repo": "adawebui",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1199,7 +1267,8 @@
                 "owner": "ada-game-framework",
                 "repo": "anuklear",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1221,7 +1290,8 @@
                 "owner": "annexi-strayline",
                 "repo": "Curses",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1236,7 +1306,8 @@
                 "owner": "samueltardieu",
                 "repo": "areadline",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1258,7 +1329,8 @@
                 "owner": "AdaDoom3",
                 "repo": "AdaDoom3",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1273,7 +1345,8 @@
                 "owner": "zertovitch",
                 "repo": "globe-3d",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1288,7 +1361,8 @@
                 "owner": "JulianSchutsch",
                 "repo": "AdaOGL",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1303,7 +1377,8 @@
                 "owner": "zertovitch",
                 "repo": "engine-3d",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1325,7 +1400,8 @@
                 "owner": "jrmarino",
                 "repo": "AdaBase",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1340,7 +1416,8 @@
                 "owner": "stcarrez",
                 "repo": "ada-ado",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1355,7 +1432,8 @@
                 "owner": "ada-apq",
                 "repo": "apq",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1377,7 +1455,8 @@
                 "owner": "AdaCore",
                 "repo": "aws",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1397,7 +1476,8 @@
                     "owner": "stcarrez",
                     "repo": "ada-security",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 },
                 {
                   "node_type": "item",
@@ -1412,7 +1492,8 @@
                     "owner": "stcarrez",
                     "repo": "ada-wiki",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 },
                 {
                   "node_type": "item",
@@ -1426,8 +1507,9 @@
                     "last_commit": "2026-04-04T15:08:00Z",
                     "owner": "stcarrez",
                     "repo": "dynamo",
-                    "stars": 18
-                  }
+                    "stars": 19
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 },
                 {
                   "node_type": "item",
@@ -1442,7 +1524,8 @@
                     "owner": "stcarrez",
                     "repo": "ada-asf",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 },
                 {
                   "node_type": "item",
@@ -1457,7 +1540,8 @@
                     "owner": "stcarrez",
                     "repo": "ada-servlet",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 },
                 {
                   "node_type": "item",
@@ -1472,7 +1556,8 @@
                     "owner": "stcarrez",
                     "repo": "ada-el",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 }
               ],
               "repo_info": {
@@ -1483,7 +1568,8 @@
                 "owner": "stcarrez",
                 "repo": "ada-awa",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1498,7 +1584,8 @@
                 "owner": "stcarrez",
                 "repo": "swagger-ada",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1513,7 +1600,8 @@
                 "owner": "simonjwright",
                 "repo": "ews",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1528,7 +1616,8 @@
                 "owner": "godunko",
                 "repo": "matreshka",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1550,7 +1639,8 @@
                 "owner": "LionelDraghi",
                 "repo": "bbt",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1565,7 +1655,8 @@
                 "owner": "AdaCore",
                 "repo": "aunit",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1580,7 +1671,8 @@
                 "owner": "briot",
                 "repo": "gnatbdd",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1595,7 +1687,8 @@
                 "owner": "tomekw",
                 "repo": "testy",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1610,7 +1703,8 @@
                 "owner": "simonjwright",
                 "repo": "scripted_testing",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1632,7 +1726,8 @@
                 "owner": "kevlar700",
                 "repo": "elogs",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1660,7 +1755,8 @@
                 "owner": "pyjarrett",
                 "repo": "septum",
                 "stars": 463
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1675,7 +1771,8 @@
                 "owner": "joular",
                 "repo": "powerjoular",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1690,7 +1787,8 @@
                 "owner": "stcarrez",
                 "repo": "mat",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1712,7 +1810,8 @@
                 "owner": "AdaCore",
                 "repo": "spark2014",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1723,11 +1822,12 @@
                 "archived": false,
                 "id": 85963367,
                 "language": "Ada",
-                "last_commit": "2026-08-28T00:54:59Z",
+                "last_commit": "2026-08-28T13:30:35Z",
                 "owner": "AdaCore",
                 "repo": "gnatcoverage",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1742,7 +1842,8 @@
                 "owner": "simonjwright",
                 "repo": "ACATS",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1757,7 +1858,8 @@
                 "owner": "simonjwright",
                 "repo": "ACATS-grading",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1779,7 +1881,8 @@
                 "owner": "AdaCore",
                 "repo": "RecordFlux",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1794,7 +1897,8 @@
                 "owner": "OpenAADL",
                 "repo": "ocarina",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1809,7 +1913,8 @@
                 "owner": "Blady-Com",
                 "repo": "Automate",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1824,7 +1929,8 @@
                 "owner": "ttsiodras",
                 "repo": "asn1scc",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1839,7 +1945,8 @@
                 "owner": "mosteo",
                 "repo": "ajunitgen",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1861,7 +1968,8 @@
                 "owner": "rocher",
                 "repo": "AdaML",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1876,7 +1984,8 @@
                 "owner": "simonjwright",
                 "repo": "coldframe",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1898,7 +2007,8 @@
                 "owner": "stcarrez",
                 "repo": "ada-keystore",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -1926,7 +2036,8 @@
                 "owner": "jscparker",
                 "repo": "math_packages",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1941,7 +2052,8 @@
                 "owner": "zertovitch",
                 "repo": "mathpaqs",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1956,7 +2068,8 @@
                 "owner": "pukpr",
                 "repo": "GeoEnergyMath",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1971,7 +2084,8 @@
                 "owner": "jhumphry",
                 "repo": "LALG",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -1986,7 +2100,8 @@
                 "owner": "mosteo",
                 "repo": "mandelbrot_ascii",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2001,7 +2116,8 @@
                 "owner": "mosteo",
                 "repo": "hungarian",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -2023,7 +2139,8 @@
                 "owner": "HeisenbugLtd",
                 "repo": "si_units",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2038,7 +2155,8 @@
                 "owner": "CKWG",
                 "repo": "SI_Units-Checked-and-Unchecked",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -2056,11 +2174,12 @@
                 "archived": false,
                 "id": 90789594,
                 "language": "Ada",
-                "last_commit": "2026-08-26T15:30:50Z",
+                "last_commit": "2026-08-28T15:25:20Z",
                 "owner": "AdaCore",
                 "repo": "ada_language_server",
                 "stars": 303
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2075,7 +2194,8 @@
                 "owner": "jrcarter",
                 "repo": "PragmARC",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2090,7 +2210,8 @@
                 "owner": "AdaCore",
                 "repo": "ada-traits-containers",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2105,7 +2226,8 @@
                 "owner": "anthony-arnold",
                 "repo": "AdaID",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2120,7 +2242,8 @@
                 "owner": "andgi",
                 "repo": "NBAda",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2135,7 +2258,8 @@
                 "owner": "reznikmm",
                 "repo": "ada-lsp",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2150,7 +2274,8 @@
                 "owner": "frett27",
                 "repo": "Ada-Sodoku",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2165,7 +2290,8 @@
                 "owner": "frett27",
                 "repo": "Ada-GA",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2180,7 +2306,8 @@
                 "owner": "fastrgv",
                 "repo": "HungarianAlgorithm",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2195,7 +2322,8 @@
                 "owner": "Alex-Gamper",
                 "repo": "Ada-LanguageServer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2210,7 +2338,8 @@
                 "owner": "jklmnn",
                 "repo": "sl3p",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2225,7 +2354,8 @@
                 "owner": "alire-project",
                 "repo": "smart_pointers",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2240,7 +2370,8 @@
                 "owner": "tomekw",
                 "repo": "simple_blockchain",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2255,7 +2386,8 @@
                 "owner": "Componolit",
                 "repo": "AZ3",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2270,7 +2402,8 @@
                 "owner": "mosteo",
                 "repo": "agpl",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2285,7 +2418,8 @@
                 "owner": "JeremyGrosser",
                 "repo": "chests",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2300,7 +2434,8 @@
                 "owner": "mosteo",
                 "repo": "adagio",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -2321,8 +2456,9 @@
                 "last_commit": "2026-03-26T14:26:30Z",
                 "owner": "rod-chapman",
                 "repo": "SPARKNaCl",
-                "stars": 137
-              }
+                "stars": 138
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2337,7 +2473,8 @@
                 "owner": "cforler",
                 "repo": "Ada-Crypto-Library",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2352,7 +2489,8 @@
                 "owner": "damaki",
                 "repo": "libkeccak",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2367,7 +2505,8 @@
                 "owner": "Componolit",
                 "repo": "libsparkcrypto",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2382,7 +2521,8 @@
                 "owner": "jrmarino",
                 "repo": "libsodium-ada",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2397,7 +2537,8 @@
                 "owner": "jhumphry",
                 "repo": "SPARK_NORX",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2412,7 +2553,8 @@
                 "owner": "jklmnn",
                 "repo": "STOTP",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2427,7 +2569,8 @@
                 "owner": "jrcarter",
                 "repo": "Encryption-utilities",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2442,7 +2585,8 @@
                 "owner": "jhumphry",
                 "repo": "SPARK_SipHash",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2457,7 +2601,8 @@
                 "owner": "michael-hardeman",
                 "repo": "base58_ada",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2472,7 +2617,8 @@
                 "owner": "jhumphry",
                 "repo": "Ascon_SPARK",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2487,7 +2633,8 @@
                 "owner": "stcarrez",
                 "repo": "ada-libsecret",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2502,7 +2649,8 @@
                 "owner": "grim7reaper",
                 "repo": "SipHash",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2517,7 +2665,8 @@
                 "owner": "lyarbean",
                 "repo": "xxhash-ada",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2532,7 +2681,8 @@
                 "owner": "lkujaw",
                 "repo": "blake2s",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2547,7 +2697,8 @@
                 "owner": "darkestkhan",
                 "repo": "fletcher",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -2569,7 +2720,8 @@
                 "owner": "zertovitch",
                 "repo": "zip-ada",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2584,7 +2736,8 @@
                 "owner": "stcarrez",
                 "repo": "ada-lzma",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2599,7 +2752,8 @@
                 "owner": "onox",
                 "repo": "dcf-ada",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -2621,7 +2775,8 @@
                 "owner": "mosteo",
                 "repo": "rxada",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2636,7 +2791,8 @@
                 "owner": "briot",
                 "repo": "Ada-promises",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2651,7 +2807,8 @@
                 "owner": "jhumphry",
                 "repo": "Reqrep_Task_Pools",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -2673,7 +2830,8 @@
                 "owner": "sergio-gomez",
                 "repo": "Radalib",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2688,7 +2846,8 @@
                 "owner": "briot",
                 "repo": "adafuzzy",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -2706,11 +2865,12 @@
                 "archived": false,
                 "id": 47627172,
                 "language": "Ada",
-                "last_commit": "2026-08-27T10:13:55Z",
+                "last_commit": "2026-08-28T15:19:03Z",
                 "owner": "AdaCore",
                 "repo": "libadalang",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2725,7 +2885,8 @@
                 "owner": "samueltardieu",
                 "repo": "aforth",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2740,7 +2901,8 @@
                 "owner": "jhumphry",
                 "repo": "parse_args",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2755,7 +2917,8 @@
                 "owner": "flyx",
                 "repo": "ParserTools",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2770,7 +2933,8 @@
                 "owner": "reznikmm",
                 "repo": "anagram",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2785,7 +2949,8 @@
                 "owner": "reznikmm",
                 "repo": "ada-pretty",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2800,7 +2965,8 @@
                 "owner": "reznikmm",
                 "repo": "increment",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2815,7 +2981,8 @@
                 "owner": "simonjwright",
                 "repo": "xia",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2830,7 +2997,8 @@
                 "owner": "BrentSeidel",
                 "repo": "Ada-Lisp-Embedded",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2845,7 +3013,8 @@
                 "owner": "reznikmm",
                 "repo": "gela",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -2867,7 +3036,8 @@
                 "owner": "yaml",
                 "repo": "AdaYaml",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2882,7 +3052,8 @@
                 "owner": "onox",
                 "repo": "json-ada",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2897,7 +3068,8 @@
                 "owner": "reznikmm",
                 "repo": "protobuf",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2912,7 +3084,8 @@
                 "owner": "pmderodat",
                 "repo": "ada-toml",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2927,7 +3100,8 @@
                 "owner": "AdaCore",
                 "repo": "xmlada",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2942,7 +3116,8 @@
                 "owner": "zertovitch",
                 "repo": "gid",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2957,7 +3132,8 @@
                 "owner": "zertovitch",
                 "repo": "ada-pdf-writer",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2972,7 +3148,8 @@
                 "owner": "Componolit",
                 "repo": "SXML",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -2987,7 +3164,8 @@
                 "owner": "Componolit",
                 "repo": "jwx",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3002,7 +3180,8 @@
                 "owner": "persan",
                 "repo": "protobuf-ada",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3017,7 +3196,8 @@
                 "owner": "zertovitch",
                 "repo": "ada-bar-codes",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3032,7 +3212,8 @@
                 "owner": "zertovitch",
                 "repo": "ini-files",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3047,7 +3228,8 @@
                 "owner": "zertovitch",
                 "repo": "excel-writer",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3062,7 +3244,8 @@
                 "owner": "frett27",
                 "repo": "Ada-Midi",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3077,7 +3260,8 @@
                 "owner": "alire-project",
                 "repo": "xmlezout",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3092,7 +3276,8 @@
                 "owner": "jhumphry",
                 "repo": "Ada_BinToAsc",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3107,7 +3292,8 @@
                 "owner": "gerr135",
                 "repo": "abf_io",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3129,7 +3315,8 @@
                 "owner": "persan",
                 "repo": "zeromq-Ada",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3144,7 +3331,8 @@
                 "owner": "samueltardieu",
                 "repo": "adasockets",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3159,7 +3347,8 @@
                 "owner": "Latence-Technologies",
                 "repo": "Kafka-Ada",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3174,7 +3363,8 @@
                 "owner": "mgrojo",
                 "repo": "coap_spark",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3189,7 +3379,8 @@
                 "owner": "persan",
                 "repo": "mosquitto-ada",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3211,7 +3402,8 @@
                 "owner": "coopht",
                 "repo": "axmpp",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3226,7 +3418,8 @@
                 "owner": "onox",
                 "repo": "weechat-ada",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3241,7 +3434,8 @@
                 "owner": "onox",
                 "repo": "weechat-emoji",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3256,7 +3450,8 @@
                 "owner": "onox",
                 "repo": "weechat-canberra",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3278,7 +3473,8 @@
                 "owner": "AdaCore",
                 "repo": "templates-parser",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3300,7 +3496,8 @@
                 "owner": "ada-game-framework",
                 "repo": "sdlada",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3315,7 +3512,8 @@
                 "owner": "flyx",
                 "repo": "OpenGLAda",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3326,11 +3524,12 @@
                 "archived": false,
                 "id": 298900902,
                 "language": "Ada",
-                "last_commit": "2026-08-27T19:13:17Z",
+                "last_commit": "2026-08-28T19:42:56Z",
                 "owner": "mgrojo",
                 "repo": "ASFML",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3345,7 +3544,8 @@
                 "owner": "godunko",
                 "repo": "adagl",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3360,7 +3560,8 @@
                 "owner": "raph-amiard",
                 "repo": "ada-nanovg",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3375,7 +3576,8 @@
                 "owner": "flyx",
                 "repo": "FreeTypeAda",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3397,7 +3599,8 @@
                 "owner": "AdaCore",
                 "repo": "cuda",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3412,7 +3615,8 @@
                 "owner": "flyx",
                 "repo": "OpenCLAda",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3427,7 +3631,8 @@
                 "owner": "stcarrez",
                 "repo": "ada-bfd",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3442,7 +3647,8 @@
                 "owner": "ytomino",
                 "repo": "bdwgc-ada",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3464,7 +3670,8 @@
                 "owner": "frett27",
                 "repo": "Ada-Synthetizer",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3479,7 +3686,8 @@
                 "owner": "raph-amiard",
                 "repo": "ada-soundio",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3494,7 +3702,8 @@
                 "owner": "onox",
                 "repo": "canberra-ada",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3509,7 +3718,8 @@
                 "owner": "darkestkhan",
                 "repo": "oto",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3524,7 +3734,8 @@
                 "owner": "io7m",
                 "repo": "coreland-openal-ada",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3539,7 +3750,8 @@
                 "owner": "onox",
                 "repo": "opus-ada",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3554,7 +3766,8 @@
                 "owner": "UlrikHjort",
                 "repo": "Ada-Tracker",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3569,7 +3782,8 @@
                 "owner": "fastrgv",
                 "repo": "Portable-OpenAL-Sound",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3591,7 +3805,8 @@
                 "owner": "Blady-Com",
                 "repo": "UXStrings",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3606,7 +3821,8 @@
                 "owner": "jhumphry",
                 "repo": "auto_counters",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3621,7 +3837,8 @@
                 "owner": "alire-project",
                 "repo": "simple_logging",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3636,7 +3853,8 @@
                 "owner": "flyx",
                 "repo": "ada-bundler",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3651,7 +3869,8 @@
                 "owner": "persan",
                 "repo": "a-stream-tools",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3666,7 +3885,8 @@
                 "owner": "mosteo",
                 "repo": "cstrings",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3681,7 +3901,8 @@
                 "owner": "persan",
                 "repo": "ssprep",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3696,7 +3917,8 @@
                 "owner": "simonjwright",
                 "repo": "macos-sdks-vs-gcc",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3711,7 +3933,8 @@
                 "owner": "mosteo",
                 "repo": "licensing",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3726,7 +3949,8 @@
                 "owner": "mosteo",
                 "repo": "rsfile",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3741,7 +3965,8 @@
                 "owner": "reznikmm",
                 "repo": "cvsweb2git",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3763,7 +3988,8 @@
                 "owner": "ada-ros",
                 "repo": "rclada",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3778,7 +4004,8 @@
                 "owner": "mosteo",
                 "repo": "player-ada",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3800,7 +4027,8 @@
                 "owner": "AdaCore",
                 "repo": "florist",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3815,7 +4043,8 @@
                 "owner": "onox",
                 "repo": "inotify-ada",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3830,7 +4059,8 @@
                 "owner": "Blady-Com",
                 "repo": "florist",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3845,7 +4075,8 @@
                 "owner": "AdaCore",
                 "repo": "wposix",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3860,7 +4091,8 @@
                 "owner": "mosteo",
                 "repo": "dl-ada",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3875,7 +4107,8 @@
                 "owner": "frett27",
                 "repo": "AdaV4L2",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3897,7 +4130,8 @@
                 "owner": "AdaCore",
                 "repo": "win32ada",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3912,7 +4146,8 @@
                 "owner": "Alex-Gamper",
                 "repo": "Ada-WinRT",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3927,7 +4162,8 @@
                 "owner": "Alex-Gamper",
                 "repo": "Ada-NetFramework",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3942,7 +4178,8 @@
                 "owner": "Alex-Gamper",
                 "repo": "Ada-Win32",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -3964,7 +4201,8 @@
                 "owner": "Nikokrock",
                 "repo": "ada-lua",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3979,7 +4217,8 @@
                 "owner": "simonjwright",
                 "repo": "tcladashell",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -3994,7 +4233,8 @@
                 "owner": "thindil",
                 "repo": "tashy",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4009,7 +4249,8 @@
                 "owner": "io7m",
                 "repo": "coreland-lua-ada",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4024,7 +4265,8 @@
                 "owner": "thindil",
                 "repo": "tashy2",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4052,7 +4294,8 @@
                 "owner": "gabriele-galeotti",
                 "repo": "SweetAda",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4063,11 +4306,12 @@
                 "archived": false,
                 "id": 712630372,
                 "language": "Ada",
-                "last_commit": "2026-08-27T15:40:16Z",
+                "last_commit": "2026-08-28T13:26:13Z",
                 "owner": "lasp",
                 "repo": "adamant",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4082,7 +4326,8 @@
                 "owner": "coreboot",
                 "repo": "libgfxinit",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4097,7 +4342,8 @@
                 "owner": "AdaCore",
                 "repo": "Robotics_with_Ada",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4119,7 +4365,8 @@
                 "owner": "AdaCore",
                 "repo": "Certyflie",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4141,7 +4388,8 @@
                 "owner": "AdaCore",
                 "repo": "Ada_Drivers_Library",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4156,7 +4404,8 @@
                 "owner": "damaki",
                 "repo": "DW1000",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4171,7 +4420,8 @@
                 "owner": "it-cosmos",
                 "repo": "emBRICK",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4186,7 +4436,8 @@
                 "owner": "damaki",
                 "repo": "EVB1000",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4201,7 +4452,8 @@
                 "owner": "simonjwright",
                 "repo": "multiplexed-io",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4223,7 +4475,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "solenoid-engine-controller",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4245,7 +4498,8 @@
                 "owner": "stcarrez",
                 "repo": "ada-enet",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4260,7 +4514,8 @@
                 "owner": "morbos",
                 "repo": "STM32",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4282,7 +4537,8 @@
                 "owner": "raph-amiard",
                 "repo": "ada-synth-lib",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4297,7 +4553,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "GESTE",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4312,7 +4569,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "Ada_Time",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4327,7 +4585,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "Giza",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4342,7 +4601,8 @@
                 "owner": "stcarrez",
                 "repo": "stm32-ui",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4357,7 +4617,8 @@
                 "owner": "mosteo",
                 "repo": "sancta",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4372,7 +4633,8 @@
                 "owner": "jklmnn",
                 "repo": "wiringPi-Ada",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4394,7 +4656,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "Wee-Noise-Maker",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4409,7 +4672,8 @@
                 "owner": "stcarrez",
                 "repo": "etherscope",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4424,7 +4688,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "noise-nugget",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4439,7 +4704,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "coffee-clock",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4454,7 +4720,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "spark-railway-demo",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4469,7 +4736,8 @@
                 "owner": "AdaCore",
                 "repo": "SPARK_Railway_Simulation_Demo",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4484,7 +4752,8 @@
                 "owner": "jklmnn",
                 "repo": "MicroTemPi",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4499,7 +4768,8 @@
                 "owner": "AdaCore",
                 "repo": "Lunar_Lander_Rotation_Demo",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4521,7 +4791,8 @@
                 "owner": "AdaCore",
                 "repo": "svd2ada",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4549,7 +4820,8 @@
                 "owner": "thindil",
                 "repo": "hunter",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4564,7 +4836,8 @@
                 "owner": "zertovitch",
                 "repo": "cbsg",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4579,7 +4852,8 @@
                 "owner": "zertovitch",
                 "repo": "azip",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4594,7 +4868,8 @@
                 "owner": "zertovitch",
                 "repo": "texcad",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4616,7 +4891,8 @@
                 "owner": "yet-another-static-site-generator",
                 "repo": "yass",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4631,7 +4907,8 @@
                 "owner": "zertovitch",
                 "repo": "wasabee",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4653,7 +4930,8 @@
                 "owner": "AdaDoom3",
                 "repo": "Ada3DS",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4668,7 +4946,8 @@
                 "owner": "BlackBlazent",
                 "repo": "blackvideo-mini-player",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4690,7 +4969,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "ACNC",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4708,11 +4988,12 @@
                 "archived": false,
                 "id": 46439446,
                 "language": "VHDL",
-                "last_commit": "2026-08-27T21:19:49Z",
+                "last_commit": "2026-08-28T16:36:16Z",
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2869
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4727,7 +5008,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "eagle-lander",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4742,7 +5024,8 @@
                 "owner": "ohenley",
                 "repo": "COVID-19_Simulator",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4757,7 +5040,8 @@
                 "owner": "Jellix",
                 "repo": "mars_mpl",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4772,7 +5056,8 @@
                 "owner": "JulianSchutsch",
                 "repo": "ParallelSim",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4787,7 +5072,8 @@
                 "owner": "moriyasum",
                 "repo": "OpenAL_GtkAda_GUI_Doppler_Effect_Plane_1",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4814,7 +5100,8 @@
                     "owner": "Blady-Com",
                     "repo": "tp7ada-gnoga",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 },
                 {
                   "node_type": "item",
@@ -4829,7 +5116,8 @@
                     "owner": "Blady-Com",
                     "repo": "tp7ada-gtkada",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:13:00.044Z"
                 }
               ],
               "repo_info": {
@@ -4840,7 +5128,8 @@
                 "owner": "zertovitch",
                 "repo": "pascal-to-ada",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4855,7 +5144,8 @@
                 "owner": "Componolit",
                 "repo": "Cappulada",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4870,7 +5160,8 @@
                 "owner": "Blady-Com",
                 "repo": "j2ada",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4885,7 +5176,8 @@
                 "owner": "Fabien-Chouteau",
                 "repo": "tiled-code-gen",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4900,7 +5192,8 @@
                 "owner": "simonjwright",
                 "repo": "asis2xml",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4915,7 +5208,8 @@
                 "owner": "fdesp87",
                 "repo": "winforms2gtk",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -4937,7 +5231,8 @@
                 "owner": "AdaCore",
                 "repo": "gsh",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4952,7 +5247,8 @@
                 "owner": "SMerrony",
                 "repo": "dashera",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4967,7 +5263,8 @@
                 "owner": "charlie5",
                 "repo": "aShell",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4982,7 +5279,8 @@
                 "owner": "simonjwright",
                 "repo": "analytical-engine",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -4997,7 +5295,8 @@
                 "owner": "docandrew",
                 "repo": "YOTROC",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -5019,7 +5318,8 @@
                 "owner": "mk270",
                 "repo": "whitakers-words",
                 "stars": 330
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -5034,7 +5334,8 @@
                 "owner": "atalii",
                 "repo": "adage",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -5049,7 +5350,8 @@
                 "owner": "adachess",
                 "repo": "AdaChess",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             },
             {
               "node_type": "item",
@@ -5064,7 +5366,8 @@
                 "owner": "simonjwright",
                 "repo": "dhondt",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
             }
           ],
           "description": null,
@@ -5076,7 +5379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:35:33.615Z",
+    "last_updated": "2026-08-29T02:13:00.044Z",
     "original_repository_info": {
       "archived": false,
       "id": 154575475,
