@@ -531,7 +531,7 @@
                 "language": "Ada",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-28T03:54:30Z",
-                "open_issues": 363,
+                "open_issues": 364,
                 "owner": "alire-project",
                 "repo": "alire",
                 "stars": 405,
@@ -1060,7 +1060,7 @@
             "id": 1114304032,
             "language": "Ada",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-26T23:50:04Z",
+            "last_commit": "2026-08-29T13:04:01Z",
             "open_issues": 0,
             "owner": "ajxs",
             "repo": "straylight",
@@ -1199,7 +1199,7 @@
             "id": 291585928,
             "language": "Ada",
             "license": "EUPL-1.2",
-            "last_commit": "2026-08-26T14:53:16Z",
+            "last_commit": "2026-08-29T19:37:54Z",
             "open_issues": 1,
             "owner": "HonkiTonk",
             "repo": "Honki-Tonks-Zivilisationen",
@@ -1613,7 +1613,7 @@
                 "id": 519707196,
                 "language": "Ada",
                 "license": "ISC",
-                "last_commit": "2026-08-26T07:54:25Z",
+                "last_commit": "2026-08-29T12:23:56Z",
                 "open_issues": 1,
                 "owner": "charlie5",
                 "repo": "lace",
@@ -6297,7 +6297,7 @@
                 "open_issues": 6,
                 "owner": "lasp",
                 "repo": "adamant",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
@@ -7237,11 +7237,11 @@
                 "id": 46439446,
                 "language": "VHDL",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T16:36:16Z",
-                "open_issues": 344,
+                "last_commit": "2026-08-29T13:31:27Z",
+                "open_issues": 343,
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2869,
+                "stars": 2871,
                 "topics": [
                   "compiler",
                   "gcc",
@@ -7783,7 +7783,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:28.778Z",
+    "last_updated": "2026-08-29T21:45:09.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to the Ada and SPARK programming language",
