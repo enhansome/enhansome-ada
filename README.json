@@ -876,7 +876,7 @@
             "open_issues": 6,
             "owner": "AdaCore",
             "repo": "bb-runtimes",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-29T02:13:00.044Z"
@@ -1060,7 +1060,7 @@
             "id": 1114304032,
             "language": "Ada",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T13:04:01Z",
+            "last_commit": "2026-08-30T07:44:53Z",
             "open_issues": 0,
             "owner": "ajxs",
             "repo": "straylight",
@@ -1117,7 +1117,7 @@
             "id": 63979714,
             "language": "Nim",
             "license": null,
-            "last_commit": "2026-08-29T03:35:50Z",
+            "last_commit": "2026-08-30T03:56:19Z",
             "open_issues": 1,
             "owner": "thindil",
             "repo": "steamsky",
@@ -1199,7 +1199,7 @@
             "id": 291585928,
             "language": "Ada",
             "license": "EUPL-1.2",
-            "last_commit": "2026-08-29T19:37:54Z",
+            "last_commit": "2026-08-30T16:24:15Z",
             "open_issues": 1,
             "owner": "HonkiTonk",
             "repo": "Honki-Tonks-Zivilisationen",
@@ -2406,7 +2406,7 @@
                 "open_issues": 4,
                 "owner": "LionelDraghi",
                 "repo": "bbt",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
@@ -4870,7 +4870,7 @@
                 "language": "Ada",
                 "license": "MIT",
                 "last_commit": "2026-07-17T11:31:04Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "persan",
                 "repo": "zeromq-Ada",
                 "stars": 42,
@@ -6293,8 +6293,8 @@
                 "id": 712630372,
                 "language": "Ada",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T13:26:13Z",
-                "open_issues": 6,
+                "last_commit": "2026-08-30T18:38:28Z",
+                "open_issues": 7,
                 "owner": "lasp",
                 "repo": "adamant",
                 "stars": 50,
@@ -7700,7 +7700,7 @@
                 "open_issues": 50,
                 "owner": "mk270",
                 "repo": "whitakers-words",
-                "stars": 330,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
@@ -7783,7 +7783,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:45:09.901Z",
+    "last_updated": "2026-08-30T21:54:45.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to the Ada and SPARK programming language",

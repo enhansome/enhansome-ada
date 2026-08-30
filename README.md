@@ -297,7 +297,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 * [adawebpack](https://github.com/godunko/adawebpack) ⭐ 83 | 🐛 4 | 🌐 Ada | 📅 2025-02-16 - GNAT RTL for WebAssembly and bindings for Web API.
 * [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) ⭐ 80 | 🐛 7 | 🌐 Ada | 📅 2025-03-18 - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
-* [bb-runtimes](https://github.com/AdaCore/bb-runtimes) ⭐ 71 | 🐛 6 | 🌐 Ada | 📅 2026-08-18 - GNAT bare metal board support package (BSP).
+* [bb-runtimes](https://github.com/AdaCore/bb-runtimes) ⭐ 72 | 🐛 6 | 🌐 Ada | 📅 2026-08-18 - GNAT bare metal board support package (BSP).
 * [ada-runtime](https://github.com/Componolit/ada-runtime) ⚠️ Archived - A downsized Ada runtime which can be adapted to different platforms.
 * [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
 
@@ -312,7 +312,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 * [ewok](https://github.com/wookey-project/ewok-kernel) ⭐ 80 | 🐛 2 | 🌐 Ada | 📅 2021-05-27 - A microkernel targeting micro-controllers and embedded systems.
 * [hirtos](https://github.com/jgrivera67/HiRTOS) ⭐ 53 | 🐛 5 | 🌐 Ada | 📅 2026-01-29 - A high-integrity RTOS written in SPARK Ada.
 * [havk](https://github.com/RavSS/HAVK) ⭐ 29 | 🐛 1 | 🌐 Ada | 📅 2021-05-28 - x86-64 security-focused OS being created with SPARK.
-* [Straylight](https://github.com/ajxs/straylight) ⭐ 3 | 🐛 0 | 🌐 Ada | 📅 2026-08-29 - A simple monolithic RISC-V operating system developed in Ada.
+* [Straylight](https://github.com/ajxs/straylight) ⭐ 3 | 🐛 0 | 🌐 Ada | 📅 2026-08-30 - A simple monolithic RISC-V operating system developed in Ada.
 * [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
 * [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
 * [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance.
@@ -322,11 +322,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 474 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,506 | 🐛 16 | 🌐 C | 📅 2026-08-29).
-* [steamsky](https://github.com/thindil/steamsky) ⭐ 104 | 🐛 1 | 🌐 Nim | 📅 2026-08-29 - Roguelike in sky with a steampunk setting.
+* [eepers](https://github.com/tsoding/eepers) ⭐ 474 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,530 | 🐛 16 | 🌐 C | 📅 2026-08-29).
+* [steamsky](https://github.com/thindil/steamsky) ⭐ 104 | 🐛 1 | 🌐 Nim | 📅 2026-08-30 - Roguelike in sky with a steampunk setting.
 * [gade](https://github.com/ellamosi/gade) ⭐ 32 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 - A Game Boy emulation library in Ada.
 * [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 25 | 🐛 0 | 🌐 Ada | 📅 2026-08-21 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
-* [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 23 | 🐛 1 | 🌐 Ada | 📅 2026-08-29 - Civilization-style turn-based strategy game. Requires [asfml].
+* [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 23 | 🐛 1 | 🌐 Ada | 📅 2026-08-30 - Civilization-style turn-based strategy game. Requires [asfml].
 * [ada-venture](https://github.com/fastrgv/AdaVenture) ⭐ 18 | 🐛 0 | 🌐 Ada | 📅 2026-08-21 - AdaVenture is a kid-friendly retro point\&click game with mazes, dragons, bats & snakes.
 * [bingada](https://github.com/jfuica/bingada) ⭐ 9 | 🐛 0 | 🌐 Ada | 📅 2023-07-15 - Bingo application in [gtkada].
 * [play-2048](https://github.com/mgrojo/play_2048) ⭐ 7 | 🐛 1 | 🌐 Ada | 📅 2025-08-08 - A clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
@@ -419,7 +419,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Unit Test, Testing
 
-* [bbt](https://github.com/LionelDraghi/bbt) ⭐ 28 | 🐛 4 | 🌐 Ada | 📅 2026-07-24 - Simple tool to black box check the behavior of an executable through the command line.
+* [bbt](https://github.com/LionelDraghi/bbt) ⭐ 29 | 🐛 4 | 🌐 Ada | 📅 2026-07-24 - Simple tool to black box check the behavior of an executable through the command line.
 * [aunit](https://github.com/AdaCore/aunit) ⭐ 12 | 🐛 13 | 🌐 Ada | 📅 2026-08-25 - Ada unit testing framework.
 * [gnatbdd](https://github.com/briot/gnatbdd) ⭐ 7 | 🐛 2 | 🌐 Ada | 📅 2021-10-25 - Behavior Driven Development in Ada.
 * [testy](https://github.com/tomekw/testy) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2026-05-07 - Ada testing framework, part of [Tada](https://github.com/tomekw/tada) ⭐ 23 | 🐛 0 | 🌐 Ada | 📅 2026-05-16.
@@ -609,7 +609,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Networking and Communication Middleware
 
-* [zeromq-ada](https://github.com/persan/zeromq-Ada.git) ⭐ 42 | 🐛 0 | 🌐 Ada | 📅 2026-07-17 - Binding to the ZeroMQ comunications-library.
+* [zeromq-ada](https://github.com/persan/zeromq-Ada.git) ⭐ 42 | 🐛 1 | 🌐 Ada | 📅 2026-07-17 - Binding to the ZeroMQ comunications-library.
 * [adasockets](https://github.com/samueltardieu/adasockets) ⚠️ Archived - IPv4 socket library (TCP, UDP, and multicast).
 * [kafka-ada](https://github.com/Latence-Technologies/Kafka-Ada) ⭐ 15 | 🐛 4 | 🌐 Ada | 📅 2022-09-02 - Binding for the C librdkafka library, allows sending and receiving from a Kafka bus.
 * [coap-spark](https://github.com/mgrojo/coap_spark) ⭐ 8 | 🐛 1 | 🌐 Ada | 📅 2026-08-24 - A formally verified implementation of CoAP, the Constrained Application Protocol.
@@ -732,7 +732,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Frameworks
 
 * [SweetAda](https://github.com/gabriele-galeotti/SweetAda) ⭐ 53 | 🐛 0 | 🌐 Ada | 📅 2026-08-27 - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
-* [adamant](https://github.com/lasp/adamant) ⭐ 50 | 🐛 6 | 🌐 Ada | 📅 2026-08-28 - A component-based, model-driven framework for constructing reliable and reusable real-time software.
+* [adamant](https://github.com/lasp/adamant) ⭐ 50 | 🐛 7 | 🌐 Ada | 📅 2026-08-30 - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 * [libgfxinit](https://github.com/coreboot/libgfxinit) ⭐ 26 | 🐛 0 | 🌐 Ada | 📅 2026-07-30 - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
 * [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) ⚠️ Archived - Robotics with Ada, ARM, and Lego.
 
@@ -850,11 +850,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Misc
 
-* [whitakers-words](https://github.com/mk270/whitakers-words) ⭐ 330 | 🐛 50 | 🌐 Ada | 📅 2026-08-26 - William Whitaker's WORDS, a Latin dictionary.
+* [whitakers-words](https://github.com/mk270/whitakers-words) ⭐ 331 | 🐛 50 | 🌐 Ada | 📅 2026-08-26 - William Whitaker's WORDS, a Latin dictionary.
 * [adage](https://github.com/atalii/adage) ⭐ 12 | 🐛 1 | 🌐 Ada | 📅 2025-04-26 - An Ada/SPARK alternative to sudo and doas.
 * [ada-chess](https://github.com/adachess/AdaChess) ⭐ 9 | 🐛 0 | 🌐 Ada | 📅 2023-11-09 - Chess engine written in Ada.
 * [dhondt](https://github.com/simonjwright/dhondt) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2019-12-13 - Ada implementation of D'Hondt electoral result calculator.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
