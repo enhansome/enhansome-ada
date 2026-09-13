@@ -307,7 +307,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## OS and Kernels
 
-* [cubit](https://github.com/docandrew/CuBit) ⭐ 89 | 🐛 4 | 🌐 Ada | 📅 2026-09-12 - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
+* [cubit](https://github.com/docandrew/CuBit) ⭐ 89 | 🐛 4 | 🌐 Ada | 📅 2026-09-13 - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 * [bare-bones](https://github.com/Lucretia/bare_bones) ⭐ 88 | 🐛 0 | 🌐 Ada | 📅 2016-11-20 - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_Bones) minimal 32-bit x86 kernel.
 * [ewok](https://github.com/wookey-project/ewok-kernel) ⭐ 80 | 🐛 2 | 🌐 Ada | 📅 2021-05-27 - A microkernel targeting micro-controllers and embedded systems.
 * [hirtos](https://github.com/jgrivera67/HiRTOS) ⭐ 53 | 🐛 5 | 🌐 Ada | 📅 2026-01-29 - A high-integrity RTOS written in SPARK Ada.
@@ -322,11 +322,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 476 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,681 | 🐛 13 | 🌐 C | 📅 2026-09-12).
-* [steamsky](https://github.com/thindil/steamsky) ⭐ 105 | 🐛 1 | 🌐 Nim | 📅 2026-09-12 - Roguelike in sky with a steampunk setting.
+* [eepers](https://github.com/tsoding/eepers) ⭐ 476 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,704 | 🐛 13 | 🌐 C | 📅 2026-09-13).
+* [steamsky](https://github.com/thindil/steamsky) ⭐ 105 | 🐛 1 | 🌐 Nim | 📅 2026-09-13 - Roguelike in sky with a steampunk setting.
 * [gade](https://github.com/ellamosi/gade) ⭐ 32 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 - A Game Boy emulation library in Ada.
-* [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 25 | 🐛 0 | 🌐 Ada | 📅 2026-08-21 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
-* [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 23 | 🐛 1 | 🌐 Ada | 📅 2026-09-12 - Civilization-style turn-based strategy game. Requires [asfml].
+* [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 25 | 🐛 0 | 🌐 Ada | 📅 2026-09-12 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
+* [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 23 | 🐛 1 | 🌐 Ada | 📅 2026-09-13 - Civilization-style turn-based strategy game. Requires [asfml].
 * [ada-venture](https://github.com/fastrgv/AdaVenture) ⭐ 18 | 🐛 0 | 🌐 Ada | 📅 2026-08-21 - AdaVenture is a kid-friendly retro point\&click game with mazes, dragons, bats & snakes.
 * [bingada](https://github.com/jfuica/bingada) ⭐ 9 | 🐛 0 | 🌐 Ada | 📅 2023-07-15 - Bingo application in [gtkada].
 * [retro-arcade](https://github.com/fastrgv/RetroArcade) ⭐ 7 | 🐛 1 | 🌐 Ada | 📅 2024-09-15 - Space Invaders, Pacman, & Frogger games that run in a terminal on Windows, OS-X & Linux.
@@ -447,13 +447,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### DevOps
 
-* [septum](https://github.com/pyjarrett/septum) ⭐ 464 | 🐛 13 | 🌐 Ada | 📅 2026-09-12 - An interactive context-based text search tool for searching large codebases.
+* [septum](https://github.com/pyjarrett/septum) ⭐ 464 | 🐛 11 | 🌐 Ada | 📅 2026-09-13 - An interactive context-based text search tool for searching large codebases.
 * [powerjoular](https://github.com/joular/powerjoular) ⭐ 117 | 🐛 6 | 🌐 Ada | 📅 2026-09-08 - This tool allows monitoring power consumption of multiple platforms and processes.
 * [mat](https://github.com/stcarrez/mat) ⭐ 7 | 🐛 0 | 🌐 Ada | 📅 2025-11-11 - Simple memory analysis tool intended to help understand where the memory is used in a program.
 
 ### Verification
 
-* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 326 | 🐛 6 | 🌐 Ada | 📅 2026-09-11 - SPARK formal verification toolset.
+* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 327 | 🐛 6 | 🌐 Ada | 📅 2026-09-13 - SPARK formal verification toolset.
 * [gnat-coverage](https://github.com/AdaCore/gnatcoverage) ⭐ 47 | 🐛 3 | 🌐 Ada | 📅 2026-09-11 - GNATcoverage is a tool to analyze and report program coverage.
 * [acats](https://github.com/simonjwright/ACATS) ⭐ 12 | 🐛 0 | 🌐 Ada | 📅 2024-08-01 - The Ada Conformity Assessment Test Suite, customised for GCC.
 * [acats-grading](https://github.com/simonjwright/ACATS-grading) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2024-05-17 - Tools for grading ACATS results, modified for Unix-like systems.
@@ -587,7 +587,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 * [ada-yaml](https://github.com/yaml/AdaYaml) ⚠️ Archived - Experimental YAML 1.3 implementation in Ada.
 * [json-ada](https://github.com/onox/json-ada) ⭐ 48 | 🐛 4 | 🌐 Ada | 📅 2024-07-28 - An Ada 2012 library for parsing JSON.
-* [protobuf](https://github.com/reznikmm/protobuf) ⭐ 45 | 🐛 14 | 🌐 Ada | 📅 2026-04-19 - A Google Protocol Buffers implementation in Ada, using [matreshka].
+* [protobuf](https://github.com/reznikmm/protobuf) ⭐ 45 | 🐛 13 | 🌐 Ada | 📅 2026-09-13 - A Google Protocol Buffers implementation in Ada, using [matreshka].
 * [ada-toml](https://github.com/pmderodat/ada-toml) ⭐ 38 | 🐛 3 | 🌐 Ada | 📅 2026-08-14 - TOML parser for Ada.
 * [xmlada](https://github.com/AdaCore/xmlada) ⭐ 30 | 🐛 9 | 🌐 Ada | 📅 2026-09-11 - The XML/Ada toolkit.
 * [generic-image-decoder](https://github.com/zertovitch/gid) ⭐ 28 | 🐛 0 | 🌐 Ada | 📅 2026-06-04 - Multi-format image decoder library for Ada.
@@ -731,7 +731,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Frameworks
 
-* [SweetAda](https://github.com/gabriele-galeotti/SweetAda) ⭐ 53 | 🐛 0 | 🌐 Ada | 📅 2026-09-12 - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
+* [SweetAda](https://github.com/gabriele-galeotti/SweetAda) ⭐ 53 | 🐛 0 | 🌐 Ada | 📅 2026-09-13 - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
 * [adamant](https://github.com/lasp/adamant) ⭐ 50 | 🐛 5 | 🌐 Ada | 📅 2026-09-12 - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 * [libgfxinit](https://github.com/coreboot/libgfxinit) ⭐ 27 | 🐛 0 | 🌐 Ada | 📅 2026-07-30 - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
 * [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) ⚠️ Archived - Robotics with Ada, ARM, and Lego.
@@ -742,7 +742,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Drivers
 
-* [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) ⭐ 284 | 🐛 23 | 🌐 Ada | 📅 2026-08-19 - Ada drivers for various MCU and sensors.
+* [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) ⭐ 285 | 🐛 23 | 🌐 Ada | 📅 2026-08-19 - Ada drivers for various MCU and sensors.
 * [dw1000](https://github.com/damaki/DW1000) ⭐ 14 | 🐛 1 | 🌐 Ada | 📅 2019-09-25 - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
 * [em-brick](https://github.com/it-cosmos/emBRICK) ⭐ 0 | 🐛 0 | 🌐 Ada | 📅 2016-04-25 - emBRICK driver and support for emBRICK in Ada.
 * [evb1000](https://github.com/damaki/EVB1000) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-08 - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board.
@@ -815,7 +815,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Simulation
 
-* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,889 | 🐛 337 | 🌐 VHDL | 📅 2026-09-05 - VHDL 2008/93/87 simulator.
+* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,890 | 🐛 337 | 🌐 VHDL | 📅 2026-09-13 - VHDL 2008/93/87 simulator.
 * [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) ⭐ 33 | 🐛 1 | 🌐 Ada | 📅 2020-07-26 - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 * [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator) ⭐ 10 | 🐛 7 | 🌐 Ada | 📅 2020-10-29 - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
 * [mars-mpl](https://github.com/Jellix/mars_mpl) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2020-10-20 - Mars Polar Lander (Crash) Simulator ([gtkada], [aicwl]).
@@ -857,4 +857,4 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
