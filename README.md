@@ -313,7 +313,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 * [ewok](https://github.com/wookey-project/ewok-kernel) ⭐ 80 | 🐛 2 | 🌐 Ada | 📅 2021-05-27 - A microkernel targeting micro-controllers and embedded systems.
 * [hirtos](https://github.com/jgrivera67/HiRTOS) ⭐ 54 | 🐛 5 | 🌐 Ada | 📅 2026-01-29 - A high-integrity RTOS written in SPARK Ada.
 * [havk](https://github.com/RavSS/HAVK) ⭐ 29 | 🐛 1 | 🌐 Ada | 📅 2021-05-28 - x86-64 security-focused OS being created with SPARK.
-* [Straylight](https://github.com/ajxs/straylight) ⭐ 3 | 🐛 0 | 🌐 Ada | 📅 2026-09-02 - A simple monolithic RISC-V operating system developed in Ada.
+* [Straylight](https://github.com/ajxs/straylight) ⭐ 3 | 🐛 0 | 🌐 Ada | 📅 2026-09-27 - A simple monolithic RISC-V operating system developed in Ada.
 * [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
 * [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
 * [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance.
@@ -323,14 +323,14 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 477 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,877 | 🐛 14 | 🌐 C | 📅 2026-09-25).
-* [steamsky](https://github.com/thindil/steamsky) ⭐ 105 | 🐛 8 | 🌐 Nim | 📅 2026-09-26 - Roguelike in sky with a steampunk setting.
+* [eepers](https://github.com/tsoding/eepers) ⭐ 477 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,883 | 🐛 13 | 🌐 C | 📅 2026-09-27).
+* [steamsky](https://github.com/thindil/steamsky) ⭐ 105 | 🐛 7 | 🌐 Nim | 📅 2026-09-27 - Roguelike in sky with a steampunk setting.
 * [gade](https://github.com/ellamosi/gade) ⭐ 32 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 - A Game Boy emulation library in Ada.
 * [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 25 | 🐛 0 | 🌐 Ada | 📅 2026-09-12 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
-* [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 23 | 🐛 1 | 🌐 Ada | 📅 2026-09-26 - Civilization-style turn-based strategy game. Requires [asfml].
+* [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 23 | 🐛 1 | 🌐 Ada | 📅 2026-09-27 - Civilization-style turn-based strategy game. Requires [asfml].
 * [ada-venture](https://github.com/fastrgv/AdaVenture) ⭐ 18 | 🐛 0 | 🌐 Ada | 📅 2026-08-21 - AdaVenture is a kid-friendly retro point\&click game with mazes, dragons, bats & snakes.
 * [bingada](https://github.com/jfuica/bingada) ⭐ 9 | 🐛 0 | 🌐 Ada | 📅 2023-07-15 - Bingo application in [gtkada].
-* [retro-arcade](https://github.com/fastrgv/RetroArcade) ⭐ 7 | 🐛 1 | 🌐 Ada | 📅 2026-09-23 - Space Invaders, Pacman, & Frogger games that run in a terminal on Windows, OS-X & Linux.
+* [retro-arcade](https://github.com/fastrgv/RetroArcade) ⭐ 7 | 🐛 1 | 🌐 Ada | 📅 2026-09-27 - Space Invaders, Pacman, & Frogger games that run in a terminal on Windows, OS-X & Linux.
 * [play-2048](https://github.com/mgrojo/play_2048) ⭐ 7 | 🐛 1 | 🌐 Ada | 📅 2025-08-08 - A clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
 * [gade-sdl](https://github.com/ellamosi/gade-sdl) ⭐ 6 | 🐛 1 | 🌐 Ada | 📅 2026-04-14 - An SDL2 Game Boy emulation front end for [Gade](https://github.com/ellamosi/gade) ⭐ 32 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 using [SDLAda](https://github.com/Lucretia/sdlada) ⭐ 134 | 🐛 24 | 🌐 Ada | 📅 2026-07-17.
 * [rufas-cube](https://github.com/fastrgv/RufasCube) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2026-08-21 - RufasCube is a puzzle game for Windows, OS-X and GNU Linux (it looks like a rubic cube but it's a slider, not a twister).
@@ -589,7 +589,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 * [ada-yaml](https://github.com/yaml/AdaYaml) ⚠️ Archived - Experimental YAML 1.3 implementation in Ada.
 * [json-ada](https://github.com/onox/json-ada) ⭐ 48 | 🐛 4 | 🌐 Ada | 📅 2024-07-28 - An Ada 2012 library for parsing JSON.
 * [protobuf](https://github.com/reznikmm/protobuf) ⭐ 45 | 🐛 14 | 🌐 Ada | 📅 2026-09-21 - A Google Protocol Buffers implementation in Ada, using [matreshka].
-* [ada-toml](https://github.com/pmderodat/ada-toml) ⭐ 38 | 🐛 3 | 🌐 Ada | 📅 2026-08-14 - TOML parser for Ada.
+* [ada-toml](https://github.com/pmderodat/ada-toml) ⭐ 38 | 🐛 2 | 🌐 Ada | 📅 2026-08-14 - TOML parser for Ada.
 * [xmlada](https://github.com/AdaCore/xmlada) ⭐ 30 | 🐛 9 | 🌐 Ada | 📅 2026-09-24 - The XML/Ada toolkit.
 * [generic-image-decoder](https://github.com/zertovitch/gid) ⭐ 28 | 🐛 0 | 🌐 Ada | 📅 2026-06-04 - Multi-format image decoder library for Ada.
 * [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) ⭐ 26 | 🐛 0 | 🌐 Ada | 📅 2026-02-16 - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
@@ -816,7 +816,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Simulation
 
-* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,899 | 🐛 337 | 🌐 VHDL | 📅 2026-09-20 - VHDL 2008/93/87 simulator.
+* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,899 | 🐛 338 | 🌐 VHDL | 📅 2026-09-20 - VHDL 2008/93/87 simulator.
 * [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) ⭐ 33 | 🐛 1 | 🌐 Ada | 📅 2020-07-26 - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 * [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator) ⭐ 10 | 🐛 7 | 🌐 Ada | 📅 2020-10-29 - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
 * [mars-mpl](https://github.com/Jellix/mars_mpl) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2020-10-20 - Mars Polar Lander (Crash) Simulator ([gtkada], [aicwl]).
@@ -858,4 +858,4 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
