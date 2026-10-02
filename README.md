@@ -213,7 +213,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### GPL (with linking exception)
 
-* [fsf-gnat](https://github.com/alire-project/GNAT-FSF-builds/releases) ⭐ 59 | 🐛 7 | 🌐 Python | 📅 2026-09-29 - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2022, Ada 2012, Ada 2005, Ada 95 and Ada 83.
+* [fsf-gnat](https://github.com/alire-project/GNAT-FSF-builds/releases) ⭐ 59 | 🐛 9 | 🌐 Python | 📅 2026-09-29 - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2022, Ada 2012, Ada 2005, Ada 95 and Ada 83.
 
 #### MIT
 
@@ -255,7 +255,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Editors
 
-* [lea](https://github.com/zertovitch/lea) ⭐ 34 | 🐛 1 | 🌐 Ada | 📅 2026-06-18 - A Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
+* [lea](https://github.com/zertovitch/lea) ⭐ 33 | 🐛 1 | 🌐 Ada | 📅 2026-06-18 - A Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
 * [avoe](https://github.com/UlrikHjort/Ada-Version-of-Emacs-Avoe) ⭐ 6 | 🐛 0 | 🌐 Ada | 📅 2026-09-24 - Ada Version of Emacs. A small Emacs-like editor for the Linux terminal. In the spirit of Jove: familiar Emacs keys.
 
 ### Text Modes
@@ -308,7 +308,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## OS and Kernels
 
-* [cubit](https://github.com/docandrew/CuBit) ⭐ 89 | 🐛 4 | 🌐 Ada | 📅 2026-10-01 - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
+* [cubit](https://github.com/docandrew/CuBit) ⭐ 89 | 🐛 4 | 🌐 Ada | 📅 2026-10-02 - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 * [bare-bones](https://github.com/Lucretia/bare_bones) ⭐ 88 | 🐛 0 | 🌐 Ada | 📅 2016-11-20 - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_Bones) minimal 32-bit x86 kernel.
 * [ewok](https://github.com/wookey-project/ewok-kernel) ⭐ 80 | 🐛 2 | 🌐 Ada | 📅 2021-05-27 - A microkernel targeting micro-controllers and embedded systems.
 * [hirtos](https://github.com/jgrivera67/HiRTOS) ⭐ 54 | 🐛 5 | 🌐 Ada | 📅 2026-01-29 - A high-integrity RTOS written in SPARK Ada.
@@ -323,8 +323,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 477 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,923 | 🐛 15 | 🌐 C | 📅 2026-10-01).
-* [steamsky](https://github.com/thindil/steamsky) ⭐ 105 | 🐛 7 | 🌐 Nim | 📅 2026-10-01 - Roguelike in sky with a steampunk setting.
+* [eepers](https://github.com/tsoding/eepers) ⭐ 478 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,939 | 🐛 18 | 🌐 C | 📅 2026-10-02).
+* [steamsky](https://github.com/thindil/steamsky) ⭐ 105 | 🐛 7 | 🌐 Nim | 📅 2026-10-02 - Roguelike in sky with a steampunk setting.
 * [gade](https://github.com/ellamosi/gade) ⭐ 32 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 - A Game Boy emulation library in Ada.
 * [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 25 | 🐛 0 | 🌐 Ada | 📅 2026-09-12 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 * [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 23 | 🐛 1 | 🌐 Ada | 📅 2026-09-30 - Civilization-style turn-based strategy game. Requires [asfml].
@@ -361,7 +361,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Graphical User Interface
 
-* [gtkada](https://github.com/AdaCore/gtkada) ⭐ 111 | 🐛 33 | 🌐 Ada | 📅 2026-10-01 - Ada graphical toolkit based on Gtk3 components.
+* [gtkada](https://github.com/AdaCore/gtkada) ⭐ 111 | 🐛 33 | 🌐 Ada | 📅 2026-10-02 - Ada graphical toolkit based on Gtk3 components.
 * [ada-gui](https://github.com/jrcarter/Ada_GUI) ⭐ 46 | 🐛 1 | 🌐 Ada | 📅 2026-08-31 - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
 * [gwindows](https://github.com/zertovitch/gwindows) ⭐ 27 | 🐛 3 | 🌐 Ada | 📅 2026-08-25 - GNU Ada Visual Interface.
 * [imgui-ada](https://github.com/Cre8or/ImGui-Ada) ⭐ 5 | 🐛 2 | 🌐 C++ | 📅 2023-08-25 - Ada binding of the ImGui library.
@@ -420,8 +420,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Unit Test, Testing
 
-* [bbt](https://github.com/LionelDraghi/bbt) ⭐ 29 | 🐛 4 | 🌐 Ada | 📅 2026-10-01 - Simple tool to black box check the behavior of an executable through the command line.
-* [aunit](https://github.com/AdaCore/aunit) ⭐ 13 | 🐛 8 | 🌐 Ada | 📅 2026-10-01 - Ada unit testing framework.
+* [bbt](https://github.com/LionelDraghi/bbt) ⭐ 29 | 🐛 4 | 🌐 Ada | 📅 2026-10-02 - Simple tool to black box check the behavior of an executable through the command line.
+* [aunit](https://github.com/AdaCore/aunit) ⭐ 13 | 🐛 8 | 🌐 Ada | 📅 2026-10-02 - Ada unit testing framework.
 * [gnatbdd](https://github.com/briot/gnatbdd) ⭐ 7 | 🐛 2 | 🌐 Ada | 📅 2021-10-25 - Behavior Driven Development in Ada.
 * [testy](https://github.com/tomekw/testy) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2026-05-07 - Ada testing framework, part of [Tada](https://github.com/tomekw/tada) ⭐ 23 | 🐛 0 | 🌐 Ada | 📅 2026-05-16.
 * [scripted-testing](https://github.com/simonjwright/scripted_testing) ⭐ 2 | 🐛 0 | 🌐 Ada | 📅 2023-04-25 - Supports functional testing using Tcl scripts.
@@ -449,13 +449,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### DevOps
 
 * [septum](https://github.com/pyjarrett/septum) ⭐ 465 | 🐛 8 | 🌐 Ada | 📅 2026-09-26 - An interactive context-based text search tool for searching large codebases.
-* [powerjoular](https://github.com/joular/powerjoular) ⭐ 119 | 🐛 5 | 🌐 Ada | 📅 2026-09-30 - This tool allows monitoring power consumption of multiple platforms and processes.
+* [powerjoular](https://github.com/joular/powerjoular) ⭐ 120 | 🐛 5 | 🌐 Ada | 📅 2026-10-02 - This tool allows monitoring power consumption of multiple platforms and processes.
 * [mat](https://github.com/stcarrez/mat) ⭐ 7 | 🐛 0 | 🌐 Ada | 📅 2025-11-11 - Simple memory analysis tool intended to help understand where the memory is used in a program.
 
 ### Verification
 
-* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 328 | 🐛 11 | 🌐 Ada | 📅 2026-10-01 - SPARK formal verification toolset.
-* [gnat-coverage](https://github.com/AdaCore/gnatcoverage) ⭐ 47 | 🐛 3 | 🌐 Ada | 📅 2026-10-01 - GNATcoverage is a tool to analyze and report program coverage.
+* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 328 | 🐛 11 | 🌐 Ada | 📅 2026-10-02 - SPARK formal verification toolset.
+* [gnat-coverage](https://github.com/AdaCore/gnatcoverage) ⭐ 47 | 🐛 3 | 🌐 Ada | 📅 2026-10-02 - GNATcoverage is a tool to analyze and report program coverage.
 * [acats](https://github.com/simonjwright/ACATS) ⭐ 12 | 🐛 0 | 🌐 Ada | 📅 2024-08-01 - The Ada Conformity Assessment Test Suite, customised for GCC.
 * [acats-grading](https://github.com/simonjwright/ACATS-grading) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2024-05-17 - Tools for grading ACATS results, modified for Unix-like systems.
 * [adacontrol](https://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool.
@@ -463,7 +463,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Generation
 
 * [record-flux](https://github.com/Componolit/RecordFlux) ⭐ 129 | 🐛 186 | 🌐 Ada | 📅 2026-10-01 - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
-* [ocarina](https://github.com/OpenAADL/ocarina) ⭐ 77 | 🐛 33 | 🌐 Ada | 📅 2022-03-23 - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
+* [ocarina](https://github.com/OpenAADL/ocarina) ⭐ 77 | 🐛 39 | 🌐 Ada | 📅 2022-03-23 - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
 * [automate](https://github.com/Blady-Com/Automate) ⭐ 8 | 🐛 0 | 🌐 Ada | 📅 2026-08-25 - Finite-state machine generator.
 * [asn1scc](https://github.com/ttsiodras/asn1scc) ⭐ 1 | 🐛 0 | 📅 2023-10-09 - An open source ASN.1 generator to Ada type declarations and encoders/decoders.
 * [ajunitgen](https://github.com/mosteo/ajunitgen) ⭐ 1 | 🐛 0 | 🌐 Ada | 📅 2022-06-04 - Generator of JUnit-compatible XML reports in Ada.
@@ -789,7 +789,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 * [hunter](https://github.com/thindil/hunter) ⚠️ Archived - Graphical ([gtkada]) file manager for Linux.
 * [cbsg](https://github.com/zertovitch/cbsg) ⭐ 17 | 🐛 0 | 🌐 Ada | 📅 2026-06-28 - The Corporate Bullshit Generator.
-* [azip](https://github.com/zertovitch/azip) ⭐ 16 | 🐛 1 | 🌐 Ada | 📅 2026-08-25 - A free, portable Zip Archive Manager.
+* [azip](https://github.com/zertovitch/azip) ⭐ 15 | 🐛 1 | 🌐 Ada | 📅 2026-08-25 - A free, portable Zip Archive Manager.
 * [texcad](https://github.com/zertovitch/texcad) ⭐ 6 | 🐛 0 | 🌐 Ada | 📅 2026-06-18 - A program for drawing or retouching {picture}s in LaTeX.
 
 ### Mail
@@ -816,7 +816,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Simulation
 
-* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,899 | 🐛 340 | 🌐 VHDL | 📅 2026-09-20 - VHDL 2008/93/87 simulator.
+* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,898 | 🐛 340 | 🌐 VHDL | 📅 2026-10-02 - VHDL 2008/93/87 simulator.
 * [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) ⭐ 33 | 🐛 1 | 🌐 Ada | 📅 2020-07-26 - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 * [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator) ⭐ 10 | 🐛 7 | 🌐 Ada | 📅 2020-10-29 - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
 * [mars-mpl](https://github.com/Jellix/mars_mpl) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2020-10-20 - Mars Polar Lander (Crash) Simulator ([gtkada], [aicwl]).
@@ -832,7 +832,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 * [j2ada](https://github.com/Blady-Com/j2ada) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2022-07-03 - Translator for a Java valid source code in Ada source code.
 * [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) ⭐ 3 | 🐛 0 | 🌐 Ada | 📅 2022-01-05 - Code generator for Tiled the map editor.
 * [asis2xml](https://github.com/simonjwright/asis2xml) ⭐ 2 | 🐛 1 | 🌐 Ada | 📅 2019-05-01 - Converts Ada sources' ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.
-* [winforms2gtk](https://github.com/fdesp87/winforms2gtk) ⭐ 1 | 🐛 0 | 🌐 Ada | 📅 2026-03-19 - Helper conversor of Visual Basic Microsoft Windows Forms applications to Gtk and Ada.
+* [winforms2gtk](https://github.com/fdesp87/winforms2gtk) ⭐ 1 | 🐛 0 | 🌐 Ada | 📅 2026-10-02 - Helper conversor of Visual Basic Microsoft Windows Forms applications to Gtk and Ada.
 * [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - HTML generator for Ada95 library unit specs.
 * [ada-magic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
 
@@ -858,4 +858,4 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
