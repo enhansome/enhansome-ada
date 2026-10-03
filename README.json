@@ -297,7 +297,7 @@
             {
               "node_type": "item",
               "title": "The GNAT Programming Studio",
-              "description": null,
+              "description": "AdaCore/gnatstudio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1141,7 +1141,7 @@
             "id": 63979714,
             "language": "Nim",
             "license": null,
-            "last_commit": "2026-10-02T03:23:43Z",
+            "last_commit": "2026-10-03T03:19:52Z",
             "open_issues": 7,
             "owner": "thindil",
             "repo": "steamsky",
@@ -2667,7 +2667,7 @@
                 "language": "Ada",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-02T12:34:25Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "AdaCore",
                 "repo": "spark2014",
                 "stars": 328,
@@ -2791,7 +2791,7 @@
                 "language": "Ada",
                 "license": "NOASSERTION",
                 "last_commit": "2022-03-23T02:16:23Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "OpenAADL",
                 "repo": "ocarina",
                 "stars": 77,
@@ -7821,7 +7821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:58:40.412Z",
+    "last_updated": "2026-10-03T04:21:52.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to the Ada and SPARK programming language",

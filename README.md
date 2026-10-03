@@ -323,8 +323,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 478 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,939 | 🐛 18 | 🌐 C | 📅 2026-10-02).
-* [steamsky](https://github.com/thindil/steamsky) ⭐ 105 | 🐛 7 | 🌐 Nim | 📅 2026-10-02 - Roguelike in sky with a steampunk setting.
+* [eepers](https://github.com/tsoding/eepers) ⭐ 478 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 34,940 | 🐛 20 | 🌐 C | 📅 2026-10-02).
+* [steamsky](https://github.com/thindil/steamsky) ⭐ 105 | 🐛 7 | 🌐 Nim | 📅 2026-10-03 - Roguelike in sky with a steampunk setting.
 * [gade](https://github.com/ellamosi/gade) ⭐ 32 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 - A Game Boy emulation library in Ada.
 * [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 25 | 🐛 0 | 🌐 Ada | 📅 2026-09-12 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 * [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 23 | 🐛 1 | 🌐 Ada | 📅 2026-09-30 - Civilization-style turn-based strategy game. Requires [asfml].
@@ -454,7 +454,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Verification
 
-* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 328 | 🐛 11 | 🌐 Ada | 📅 2026-10-02 - SPARK formal verification toolset.
+* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 328 | 🐛 12 | 🌐 Ada | 📅 2026-10-02 - SPARK formal verification toolset.
 * [gnat-coverage](https://github.com/AdaCore/gnatcoverage) ⭐ 47 | 🐛 3 | 🌐 Ada | 📅 2026-10-02 - GNATcoverage is a tool to analyze and report program coverage.
 * [acats](https://github.com/simonjwright/ACATS) ⭐ 12 | 🐛 0 | 🌐 Ada | 📅 2024-08-01 - The Ada Conformity Assessment Test Suite, customised for GCC.
 * [acats-grading](https://github.com/simonjwright/ACATS-grading) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2024-05-17 - Tools for grading ACATS results, modified for Unix-like systems.
@@ -463,7 +463,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Generation
 
 * [record-flux](https://github.com/Componolit/RecordFlux) ⭐ 129 | 🐛 186 | 🌐 Ada | 📅 2026-10-01 - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
-* [ocarina](https://github.com/OpenAADL/ocarina) ⭐ 77 | 🐛 39 | 🌐 Ada | 📅 2022-03-23 - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
+* [ocarina](https://github.com/OpenAADL/ocarina) ⭐ 77 | 🐛 40 | 🌐 Ada | 📅 2022-03-23 - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
 * [automate](https://github.com/Blady-Com/Automate) ⭐ 8 | 🐛 0 | 🌐 Ada | 📅 2026-08-25 - Finite-state machine generator.
 * [asn1scc](https://github.com/ttsiodras/asn1scc) ⭐ 1 | 🐛 0 | 📅 2023-10-09 - An open source ASN.1 generator to Ada type declarations and encoders/decoders.
 * [ajunitgen](https://github.com/mosteo/ajunitgen) ⭐ 1 | 🐛 0 | 🌐 Ada | 📅 2022-06-04 - Generator of JUnit-compatible XML reports in Ada.
@@ -858,4 +858,4 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
