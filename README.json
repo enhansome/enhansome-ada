@@ -141,7 +141,7 @@
                     "id": 366306956,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T08:23:38Z",
+                    "last_commit": "2026-10-06T08:22:48Z",
                     "open_issues": 9,
                     "owner": "alire-project",
                     "repo": "GNAT-FSF-builds",
@@ -1141,7 +1141,7 @@
             "id": 63979714,
             "language": "Nim",
             "license": null,
-            "last_commit": "2026-10-05T03:20:12Z",
+            "last_commit": "2026-10-06T03:31:14Z",
             "open_issues": 7,
             "owner": "thindil",
             "repo": "steamsky",
@@ -1735,7 +1735,7 @@
                 "id": 43377943,
                 "language": "Ada",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T14:34:38Z",
+                "last_commit": "2026-10-06T09:48:15Z",
                 "open_issues": 33,
                 "owner": "AdaCore",
                 "repo": "gtkada",
@@ -2426,8 +2426,8 @@
                 "id": 793794888,
                 "language": "Ada",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T22:59:14Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-06T06:25:53Z",
+                "open_issues": 3,
                 "owner": "LionelDraghi",
                 "repo": "bbt",
                 "stars": 29,
@@ -5352,6 +5352,27 @@
             },
             {
               "node_type": "item",
+              "title": "boehmgc-ada",
+              "description": "Ada binding to the Boehm-Demers-Weiser conservative garbage collector.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Boehm GC interface library for gcc-Ada (GNAT)",
+                "homepage": "https://panathenaia.halfmoon.jp/alang/ada/",
+                "id": 1023419,
+                "language": "Ada",
+                "license": null,
+                "last_commit": "2025-04-22T03:44:38Z",
+                "open_issues": 0,
+                "owner": "ytomino",
+                "repo": "bdwgc-ada",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
               "title": "ada-bfd",
               "description": "An Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.",
               "children": [],
@@ -5367,27 +5388,6 @@
                 "owner": "stcarrez",
                 "repo": "ada-bfd",
                 "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:13:00.044Z"
-            },
-            {
-              "node_type": "item",
-              "title": "boehmgc-ada",
-              "description": "Ada binding to the Boehm-Demers-Weiser conservative garbage collector.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Boehm GC interface library for gcc-Ada (GNAT)",
-                "homepage": "https://panathenaia.halfmoon.jp/alang/ada/",
-                "id": 1023419,
-                "language": "Ada",
-                "license": null,
-                "last_commit": "2025-04-22T03:44:38Z",
-                "open_issues": 0,
-                "owner": "ytomino",
-                "repo": "bdwgc-ada",
-                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
@@ -7275,8 +7275,8 @@
                 "id": 46439446,
                 "language": "VHDL",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-04T15:22:56Z",
-                "open_issues": 340,
+                "last_commit": "2026-10-06T05:19:07Z",
+                "open_issues": 339,
                 "owner": "ghdl",
                 "repo": "ghdl",
                 "stars": 2899,
@@ -7821,7 +7821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:50:01.692Z",
+    "last_updated": "2026-10-06T10:14:59.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to the Ada and SPARK programming language",
