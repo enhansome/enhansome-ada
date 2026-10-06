@@ -149,6 +149,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:13:00.044Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "gnat-patches",
+                  "description": "Curated GCC/GNAT patchsets against checksum-pinned upstream sources, each backed by an executable regression, published as patched native toolchain builds for GCC 13 through 16.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Curated, reproducible GCC/GNAT patchsets with executable regression validation",
+                    "homepage": "https://gnat-patches.flyology.org/",
+                    "id": 1327011863,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-29T17:05:50Z",
+                    "open_issues": 0,
+                    "owner": "flyology-ada",
+                    "repo": "gnat-patches",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T23:04:22.831Z"
                 }
               ],
               "description": null,
@@ -555,7 +576,7 @@
                 "language": "Ada",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T01:31:39Z",
-                "open_issues": 375,
+                "open_issues": 376,
                 "owner": "alire-project",
                 "repo": "alire",
                 "stars": 412,
@@ -925,6 +946,34 @@
             "topics": []
           },
           "first_seen": "2026-08-29T02:13:00.044Z"
+        },
+        {
+          "node_type": "item",
+          "title": "flyology",
+          "description": "Experimental GNAT runtime extension for ordinary Ada tasking, adding task-aware I/O and an opt-in lightweight lane that runs designated tasks as fibers on shared event loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Experimental GNAT runtime extension for ordinary Ada tasking, with native and lightweight execution.",
+            "homepage": "https://flyology.org/",
+            "id": 1320839221,
+            "language": "Ada",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-29T16:53:09Z",
+            "open_issues": 2,
+            "owner": "flyology-ada",
+            "repo": "flyology",
+            "stars": 9,
+            "topics": [
+              "ada",
+              "concurrency",
+              "event-loop",
+              "lightweight-tasks",
+              "runtime",
+              "spark"
+            ]
+          },
+          "first_seen": "2026-10-06T23:04:22.831Z"
         }
       ],
       "title": "Runtimes"
@@ -1171,7 +1220,7 @@
             "open_issues": 14,
             "owner": "ellamosi",
             "repo": "gade",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "ada",
               "emulator",
@@ -1223,7 +1272,7 @@
             "id": 291585928,
             "language": "Ada",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-04T15:48:35Z",
+            "last_commit": "2026-10-06T16:30:09Z",
             "open_issues": 1,
             "owner": "HonkiTonk",
             "repo": "Honki-Tonks-Zivilisationen",
@@ -1715,6 +1764,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ipfs",
+              "description": "InterPlanetary File System client library: CID/multihash/multibase, CAR archives with block verification, trustless HTTP gateway client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Native IPFS client library for Ada: CID, multihash, multibase, CAR, trustless gateway client",
+                "homepage": null,
+                "id": 1360333436,
+                "language": "Ada",
+                "license": "MIT",
+                "last_commit": "2026-09-07T14:44:25Z",
+                "open_issues": 0,
+                "owner": "kokhlo",
+                "repo": "ipfs",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             }
           ],
           "description": null,
@@ -1929,6 +1999,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-tui",
+              "description": "Typed, declarative terminal user-interface toolkit for Ada.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A typed, declarative terminal user-interface toolkit for Ada",
+                "homepage": null,
+                "id": 1329043078,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T17:05:27Z",
+                "open_issues": 0,
+                "owner": "flyology-ada",
+                "repo": "flyology-tui",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             }
           ],
           "description": null,
@@ -2121,6 +2212,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-postgres",
+              "description": "Client and server primitives for the PostgreSQL frontend/backend protocol, built on flyology task-aware I/O.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Postgres client and protocol server for Flyology tasks",
+                "homepage": "https://postgres.flyology.org/",
+                "id": 1322979311,
+                "language": "Ada",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-29T17:04:32Z",
+                "open_issues": 26,
+                "owner": "flyology-ada",
+                "repo": "flyology-postgres",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             }
           ],
           "description": null,
@@ -2406,6 +2518,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-http",
+              "description": "HTTP/1.1 clients and servers with opt-in HTTP/2 and HTTP/3 engines and WebSocket support, built on flyology task-aware I/O.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "HTTP client and server library for Flyology tasks",
+                "homepage": "https://http.flyology.org/",
+                "id": 1324721479,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T16:54:08Z",
+                "open_issues": 78,
+                "owner": "flyology-ada",
+                "repo": "flyology-http",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             }
           ],
           "description": null,
@@ -2426,7 +2559,7 @@
                 "id": 793794888,
                 "language": "Ada",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T06:25:53Z",
+                "last_commit": "2026-10-06T20:54:03Z",
                 "open_issues": 3,
                 "owner": "LionelDraghi",
                 "repo": "bbt",
@@ -2606,7 +2739,7 @@
                 "id": 350253423,
                 "language": "Ada",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T15:54:38Z",
+                "last_commit": "2026-10-06T11:57:48Z",
                 "open_issues": 4,
                 "owner": "joular",
                 "repo": "powerjoular",
@@ -2667,7 +2800,7 @@
                 "language": "Ada",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T12:44:33Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "AdaCore",
                 "repo": "spark2014",
                 "stars": 328,
@@ -3184,7 +3317,7 @@
                 "open_issues": 31,
                 "owner": "AdaCore",
                 "repo": "ada_language_server",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
@@ -3471,6 +3604,62 @@
                 ]
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-allocators",
+              "description": "Caller-owned buddy, best-fit, TLSF, and slab/span allocation algorithms with no hosted operating system dependency.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Experimental GNAT runtime extension for ordinary Ada tasking, with native and lightweight execution.",
+                "homepage": "https://flyology.org/",
+                "id": 1320839221,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T16:53:09Z",
+                "open_issues": 2,
+                "owner": "flyology-ada",
+                "repo": "flyology",
+                "stars": 9,
+                "topics": [
+                  "ada",
+                  "concurrency",
+                  "event-loop",
+                  "lightweight-tasks",
+                  "runtime",
+                  "spark"
+                ]
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-cachelines",
+              "description": "Cache-line-aware storage, ownership-aware groups, grouped arrays, and host cache queries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Experimental GNAT runtime extension for ordinary Ada tasking, with native and lightweight execution.",
+                "homepage": "https://flyology.org/",
+                "id": 1320839221,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T16:53:09Z",
+                "open_issues": 2,
+                "owner": "flyology-ada",
+                "repo": "flyology",
+                "stars": 9,
+                "topics": [
+                  "ada",
+                  "concurrency",
+                  "event-loop",
+                  "lightweight-tasks",
+                  "runtime",
+                  "spark"
+                ]
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             },
             {
               "node_type": "item",
@@ -4876,6 +5065,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-iri",
+              "description": "Allocation-conscious URI, IRI, and WHATWG URL parsing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "HTTP client and server library for Flyology tasks",
+                "homepage": "https://http.flyology.org/",
+                "id": 1324721479,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T16:54:08Z",
+                "open_issues": 78,
+                "owner": "flyology-ada",
+                "repo": "flyology-http",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-rdf",
+              "description": "RDF 1.2 terms, streaming Turtle, TriG, N-Triples and N-Quads parsing, RDFC-1.0 dataset canonicalization, Notation3, and SPARQL 1.1 query syntax.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1338220748,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T17:05:02Z",
+                "open_issues": 0,
+                "owner": "flyology-ada",
+                "repo": "flyology-rdf",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             }
           ],
           "description": null,
@@ -4994,6 +5225,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-quic",
+              "description": "Experimental bounded QUIC transport with protocol state, streams, loss recovery, and congestion control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "HTTP client and server library for Flyology tasks",
+                "homepage": "https://http.flyology.org/",
+                "id": 1324721479,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T16:54:08Z",
+                "open_issues": 78,
+                "owner": "flyology-ada",
+                "repo": "flyology-http",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             }
           ],
           "description": null,
@@ -5391,6 +5643,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-simd",
+              "description": "Portable, strongly typed SIMD foundations for Ada.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Portable, strongly typed SIMD foundations for Ada",
+                "homepage": "https://simd.flyology.org/",
+                "id": 1330316622,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-05T10:19:29Z",
+                "open_issues": 10,
+                "owner": "flyology-ada",
+                "repo": "flyology-simd",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             }
           ],
           "description": null,
@@ -5643,6 +5916,62 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-bench",
+              "description": "Adaptive microbenchmarking with balanced comparisons, diagnostics, baselines, and machine-readable reports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Experimental GNAT runtime extension for ordinary Ada tasking, with native and lightweight execution.",
+                "homepage": "https://flyology.org/",
+                "id": 1320839221,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T16:53:09Z",
+                "open_issues": 2,
+                "owner": "flyology-ada",
+                "repo": "flyology",
+                "stars": 9,
+                "topics": [
+                  "ada",
+                  "concurrency",
+                  "event-loop",
+                  "lightweight-tasks",
+                  "runtime",
+                  "spark"
+                ]
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-debug",
+              "description": "Bounded in-memory tracing, producer shards, retained batches, and persistent gauges.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Experimental GNAT runtime extension for ordinary Ada tasking, with native and lightweight execution.",
+                "homepage": "https://flyology.org/",
+                "id": 1320839221,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T16:53:09Z",
+                "open_issues": 2,
+                "owner": "flyology-ada",
+                "repo": "flyology",
+                "stars": 9,
+                "topics": [
+                  "ada",
+                  "concurrency",
+                  "event-loop",
+                  "lightweight-tasks",
+                  "runtime",
+                  "spark"
+                ]
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             },
             {
               "node_type": "item",
@@ -5941,6 +6270,34 @@
                 ]
               },
               "first_seen": "2026-08-29T02:13:00.044Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flyology-numa",
+              "description": "Memory-node topology reporting, memory placement on a chosen node, and node-bound storage pools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Experimental GNAT runtime extension for ordinary Ada tasking, with native and lightweight execution.",
+                "homepage": "https://flyology.org/",
+                "id": 1320839221,
+                "language": "Ada",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T16:53:09Z",
+                "open_issues": 2,
+                "owner": "flyology-ada",
+                "repo": "flyology",
+                "stars": 9,
+                "topics": [
+                  "ada",
+                  "concurrency",
+                  "event-loop",
+                  "lightweight-tasks",
+                  "runtime",
+                  "spark"
+                ]
+              },
+              "first_seen": "2026-10-06T23:04:22.831Z"
             },
             {
               "node_type": "item",
@@ -6282,7 +6639,7 @@
                 "id": 391203838,
                 "language": "Ada",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T18:49:57Z",
+                "last_commit": "2026-10-06T21:26:21Z",
                 "open_issues": 0,
                 "owner": "gabriele-galeotti",
                 "repo": "SweetAda",
@@ -6324,7 +6681,7 @@
                 "id": 712630372,
                 "language": "Ada",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T19:40:19Z",
+                "last_commit": "2026-10-06T21:07:16Z",
                 "open_issues": 6,
                 "owner": "lasp",
                 "repo": "adamant",
@@ -6983,7 +7340,7 @@
                 "language": "Ada",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-19T11:17:27Z",
-                "open_issues": 21,
+                "open_issues": 23,
                 "owner": "AdaCore",
                 "repo": "svd2ada",
                 "stars": 71,
@@ -7275,11 +7632,11 @@
                 "id": 46439446,
                 "language": "VHDL",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-06T05:19:07Z",
-                "open_issues": 339,
+                "last_commit": "2026-10-06T18:27:24Z",
+                "open_issues": 338,
                 "owner": "ghdl",
                 "repo": "ghdl",
-                "stars": 2899,
+                "stars": 2898,
                 "topics": [
                   "compiler",
                   "gcc",
@@ -7821,7 +8178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:14:59.253Z",
+    "last_updated": "2026-10-06T23:04:22.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to the Ada and SPARK programming language",
@@ -7829,8 +8186,8 @@
       "id": 154575475,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-22T19:22:25Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-06T18:37:12Z",
+      "open_issues": 1,
       "owner": "ohenley",
       "repo": "awesome-ada",
       "stars": 871,
@@ -7848,7 +8205,7 @@
         "spark-ada"
       ]
     },
-    "original_repository_sha": "2f3a5c17cc80f25712a4af2fa373da8a31cf1d6b",
+    "original_repository_sha": "a4e8516279ed5ef1c10c347d87a88bbc5c4ad17a",
     "enhanced_repository": "enhansome/enhansome-ada",
     "enhanced_repository_description": null,
     "title": "Awesome Ada with stars"
