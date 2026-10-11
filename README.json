@@ -993,7 +993,7 @@
             "id": 245561816,
             "language": "Ada",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T16:46:37Z",
+            "last_commit": "2026-10-11T16:49:42Z",
             "open_issues": 4,
             "owner": "docandrew",
             "repo": "CuBit",
@@ -1088,7 +1088,7 @@
             "open_issues": 5,
             "owner": "jgrivera67",
             "repo": "HiRTOS",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-29T02:13:00.044Z"
@@ -1190,7 +1190,7 @@
             "id": 63979714,
             "language": "Nim",
             "license": null,
-            "last_commit": "2026-10-10T03:23:11Z",
+            "last_commit": "2026-10-11T02:49:21Z",
             "open_issues": 6,
             "owner": "thindil",
             "repo": "steamsky",
@@ -2804,7 +2804,7 @@
                 "language": "Ada",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-09T13:29:43Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "AdaCore",
                 "repo": "spark2014",
                 "stars": 329,
@@ -6643,7 +6643,7 @@
                 "id": 391203838,
                 "language": "Ada",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T19:55:46Z",
+                "last_commit": "2026-10-11T15:31:18Z",
                 "open_issues": 0,
                 "owner": "gabriele-galeotti",
                 "repo": "SweetAda",
@@ -8182,7 +8182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:34:05.515Z",
+    "last_updated": "2026-10-11T22:55:59.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources related to the Ada and SPARK programming language",
